@@ -74,12 +74,21 @@ This directory structure serves as a template for storing model completions:
 
 ## Citation
 ```
-@article{alkhamissi2024culttrends,
-      title={Investigating Cultural Alignment of Large Language Models}, 
-      author={Badr AlKhamissi and Muhammad ElNokrashy and Mai AlKhamissi and Mona Diab},
-      year={2024},
-      eprint={2402.13231},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{alkhamissi-etal-2024-culttrends,
+    title = "Investigating Cultural Alignment of Large Language Models",
+    author = "AlKhamissi, Badr  and
+      ElNokrashy, Muhammad  and
+      Alkhamissi, Mai  and
+      Diab, Mona",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.671",
+    pages = "12404--12422"
 }
 ```
