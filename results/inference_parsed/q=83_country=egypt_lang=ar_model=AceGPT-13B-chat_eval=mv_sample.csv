@@ -1,0 +1,1197 @@
+,persona.region,persona.sex,persona.age,persona.country,persona.marital_status,persona.education,persona.social_class,question.id,question.variant,response.id,response.answer,response.var,response.entropy
+0,Fayoum,Male,46,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.25,0.6931471805599453
+1,Fayoum,Male,46,Egypt,Married,Higher,Lower middle class,Q83,1,4,1,0.0,0.0
+2,Fayoum,Male,46,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+3,Fayoum,Male,46,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.4,0.9502705392332347
+4,Fayoum,Female,30,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.1875,0.5623351446188083
+5,Fayoum,Female,30,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+6,Fayoum,Female,30,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.64,0.9502705392332347
+7,Fayoum,Female,30,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.25,0.6931471805599453
+8,Fayoum,Male,60,Egypt,Married,Higher,Working class,Q83,0,4,3,0.24000000000000002,0.6730116670092565
+9,Fayoum,Male,60,Egypt,Married,Higher,Working class,Q83,1,4,4,0.0,0.0
+10,Fayoum,Male,60,Egypt,Married,Higher,Working class,Q83,2,4,2,1.04,1.3321790402101223
+11,Fayoum,Male,60,Egypt,Married,Higher,Working class,Q83,3,4,3,0.64,0.9502705392332347
+12,Fayoum,Male,20,Egypt,Single,Middle,Lower middle class,Q83,0,4,4,1.36,1.3321790402101223
+13,Fayoum,Male,20,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+14,Fayoum,Male,20,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.0,0.0
+15,Fayoum,Male,20,Egypt,Single,Middle,Lower middle class,Q83,3,4,3,0.5,1.0397207708399179
+16,Fayoum,Female,39,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.1875,0.5623351446188083
+17,Fayoum,Female,39,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.0,0.0
+18,Fayoum,Female,39,Egypt,Married,Higher,Lower middle class,Q83,2,4,1,2.6875,1.0397207708399179
+19,Fayoum,Female,39,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+20,Fayoum,Male,33,Egypt,Married,Higher,Working class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+21,Fayoum,Male,33,Egypt,Married,Higher,Working class,Q83,1,4,2,1.5,1.0397207708399179
+22,Fayoum,Male,33,Egypt,Married,Higher,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+23,Fayoum,Male,33,Egypt,Married,Higher,Working class,Q83,3,4,2,1.36,1.3321790402101223
+24,Port Said,Female,45,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.96,0.6730116670092565
+25,Port Said,Female,45,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.6875,1.0397207708399179
+26,Port Said,Female,45,Egypt,Married,Higher,Lower middle class,Q83,2,4,1,0.56,1.0549201679861442
+27,Port Said,Female,45,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.44,0.5004024235381879
+28,Port Said,Male,42,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+29,Port Said,Male,42,Egypt,Married,Middle,Lower middle class,Q83,1,4,4,1.0,0.6931471805599453
+30,Port Said,Male,42,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+31,Port Said,Male,42,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+32,Port Said,Male,28,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,0.56,1.0549201679861442
+33,Port Said,Male,28,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+34,Port Said,Male,28,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.56,1.0549201679861442
+35,Port Said,Male,28,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,0.8,1.0549201679861442
+36,Port Said,Female,30,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.44,0.5004024235381879
+37,Port Said,Female,30,Egypt,Married,Higher,Lower middle class,Q83,1,4,3,0.0,0.0
+38,Port Said,Female,30,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.24000000000000002,0.6730116670092565
+39,Port Said,Female,30,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.04,1.3321790402101223
+40,Port Said,Male,30,Egypt,Divorced,Middle,Lower middle class,Q83,0,4,2,0.75,0.5623351446188083
+41,Port Said,Male,30,Egypt,Divorced,Middle,Lower middle class,Q83,1,4,2,0.8888888888888888,0.6365141682948128
+42,Port Said,Male,30,Egypt,Divorced,Middle,Lower middle class,Q83,2,4,2,0.0,0.0
+43,Port Said,Male,30,Egypt,Divorced,Middle,Lower middle class,Q83,3,4,2,0.56,1.0549201679861442
+44,Port Said,Female,19,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,2.25,1.0397207708399179
+45,Port Said,Female,19,Egypt,Single,Middle,Lower middle class,Q83,2,4,1,1.5,1.0397207708399179
+46,Port Said,Female,19,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+47,Fayoum,Male,40,Egypt,Married,Middle,Working class,Q83,0,4,3,0.4,0.9502705392332347
+48,Fayoum,Male,40,Egypt,Married,Middle,Working class,Q83,1,4,5,2.25,0.6931471805599453
+49,Fayoum,Male,40,Egypt,Married,Middle,Working class,Q83,2,4,2,1.84,1.3321790402101223
+50,Fayoum,Male,40,Egypt,Married,Middle,Working class,Q83,3,4,5,2.25,0.6931471805599453
+51,Fayoum,Male,23,Egypt,Single,Higher,Lower middle class,Q83,0,4,2,0.0,0.0
+52,Fayoum,Male,23,Egypt,Single,Higher,Lower middle class,Q83,1,4,5,2.25,0.6931471805599453
+53,Fayoum,Male,23,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+54,Fayoum,Male,23,Egypt,Single,Higher,Lower middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+55,Fayoum,Female,38,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.1875,0.5623351446188083
+56,Fayoum,Female,38,Egypt,Married,Middle,Lower middle class,Q83,1,4,1,0.0,0.0
+57,Fayoum,Female,38,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.24000000000000002,0.6730116670092565
+58,Fayoum,Female,38,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.25,0.6931471805599453
+59,Fayoum,Male,32,Egypt,Married,Middle,Lower middle class,Q83,0,4,3,0.1875,0.5623351446188083
+60,Fayoum,Male,32,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.6875,1.0397207708399179
+61,Fayoum,Male,32,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,2.16,1.3321790402101223
+62,Fayoum,Male,32,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+63,Fayoum,Male,31,Egypt,Married,Higher,Working class,Q83,0,4,5,1.84,1.0549201679861442
+64,Fayoum,Male,31,Egypt,Married,Higher,Working class,Q83,1,4,5,1.0,0.6931471805599453
+65,Fayoum,Male,31,Egypt,Married,Higher,Working class,Q83,2,4,2,0.16,0.5004024235381879
+66,Fayoum,Male,31,Egypt,Married,Higher,Working class,Q83,3,4,2,0.16,0.5004024235381879
+67,Fayoum,Male,31,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.1875,0.5623351446188083
+68,Fayoum,Male,31,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,0.0,0.0
+69,Fayoum,Male,31,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.75,0.5623351446188083
+70,Fayoum,Male,31,Egypt,Married,Middle,Lower middle class,Q83,3,4,4,1.4400000000000002,1.0549201679861442
+71,Fayoum,Female,32,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.4,0.9502705392332347
+72,Fayoum,Female,32,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+73,Fayoum,Female,32,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.0,0.0
+74,Fayoum,Female,32,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.2000000000000002,1.0549201679861442
+75,Ismailia,Male,53,Egypt,Married,Middle,Lower middle class,Q83,0,4,1,0.56,1.0549201679861442
+76,Ismailia,Male,53,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+77,Ismailia,Male,53,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+78,Ismailia,Male,53,Egypt,Married,Middle,Lower middle class,Q83,3,4,3,0.56,1.0549201679861442
+79,Ismailia,Male,38,Egypt,Married,Higher,Working class,Q83,0,4,3,0.4,0.9502705392332347
+80,Ismailia,Male,38,Egypt,Married,Higher,Working class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+81,Ismailia,Male,38,Egypt,Married,Higher,Working class,Q83,2,4,2,0.0,0.0
+82,Ismailia,Male,38,Egypt,Married,Higher,Working class,Q83,3,4,2,0.64,0.5004024235381879
+83,Ismailia,Female,35,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.8888888888888888,0.6365141682948128
+84,Ismailia,Female,35,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,2.6666666666666665,1.0986122886681096
+85,Ismailia,Female,35,Egypt,Married,Middle,Lower middle class,Q83,2,4,3,0.6875,1.0397207708399179
+86,Ismailia,Female,35,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.36,1.3321790402101223
+87,Ismailia,Female,57,Egypt,Married,Lower,Working class,Q83,0,4,2,1.3599999999999999,0.9502705392332347
+88,Ismailia,Female,57,Egypt,Married,Lower,Working class,Q83,1,4,2,1.5555555555555554,1.0986122886681096
+89,Ismailia,Female,57,Egypt,Married,Lower,Working class,Q83,2,4,2,2.0,0.6365141682948128
+90,Ismailia,Female,57,Egypt,Married,Lower,Working class,Q83,3,4,5,1.3599999999999999,1.3321790402101223
+91,Ismailia,Male,33,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+92,Ismailia,Male,33,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+93,Ismailia,Male,33,Egypt,Married,Middle,Lower middle class,Q83,2,4,5,2.8000000000000003,1.0549201679861442
+94,Ismailia,Male,33,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+95,Ismailia,Female,49,Egypt,Single,Higher,Upper middle class,Q83,0,4,4,1.36,1.3321790402101223
+96,Ismailia,Female,49,Egypt,Single,Higher,Upper middle class,Q83,1,4,5,0.0,0.0
+97,Ismailia,Female,49,Egypt,Single,Higher,Upper middle class,Q83,2,4,2,0.64,0.5004024235381879
+98,Ismailia,Female,49,Egypt,Single,Higher,Upper middle class,Q83,3,4,3,0.64,0.9502705392332347
+99,Ismailia,Female,35,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.16,0.5004024235381879
+100,Ismailia,Female,35,Egypt,Married,Higher,Lower middle class,Q83,1,4,5,2.6875,1.0397207708399179
+101,Ismailia,Female,35,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.96,0.9502705392332347
+102,Ismailia,Female,35,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,2.16,1.3321790402101223
+103,Ismailia,Male,24,Egypt,Single,Higher,Upper middle class,Q83,0,4,2,0.56,1.0549201679861442
+104,Ismailia,Male,24,Egypt,Single,Higher,Upper middle class,Q83,1,4,2,1.0,0.6931471805599453
+105,Ismailia,Male,24,Egypt,Single,Higher,Upper middle class,Q83,2,4,2,0.0,0.0
+106,Ismailia,Male,24,Egypt,Single,Higher,Upper middle class,Q83,3,4,2,0.16,0.5004024235381879
+107,Ismailia,Female,23,Egypt,Single,Higher,Lower middle class,Q83,0,4,2,1.36,1.3321790402101223
+108,Ismailia,Female,23,Egypt,Single,Higher,Lower middle class,Q83,1,4,1,0.0,0.0
+109,Ismailia,Female,23,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+110,Ismailia,Female,23,Egypt,Single,Higher,Lower middle class,Q83,3,4,3,1.04,1.3321790402101223
+111,Ismailia,Male,55,Egypt,Married,Middle,Lower middle class,Q83,0,4,1,1.84,1.0549201679861442
+112,Ismailia,Male,55,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,2.16,0.6730116670092565
+113,Ismailia,Male,55,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,1.84,1.3321790402101223
+114,Ismailia,Male,55,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.0,0.0
+115,Ismailia,Male,57,Egypt,Married,Middle,Upper middle class,Q83,0,4,1,2.0,0.6365141682948128
+116,Ismailia,Male,57,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.0,0.0
+117,Ismailia,Male,57,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.96,0.9502705392332347
+118,Ismailia,Male,57,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.16,0.5004024235381879
+119,Ismailia,Female,29,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.24,0.6730116670092565
+120,Ismailia,Female,29,Egypt,Married,Middle,Upper middle class,Q83,1,4,1,0.0,0.0
+121,Ismailia,Female,29,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,1.5555555555555554,1.0986122886681096
+122,Ismailia,Female,29,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,2.16,1.3321790402101223
+123,Damiatta,Female,46,Egypt,Married,Middle,Lower middle class,Q83,0,4,3,1.1875,1.0397207708399179
+124,Damiatta,Female,46,Egypt,Married,Middle,Lower middle class,Q83,1,4,1,0.0,0.0
+125,Damiatta,Female,46,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.2222222222222222,0.6365141682948128
+126,Damiatta,Female,46,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+127,Damiatta,Female,20,Egypt,Single,Middle,Lower middle class,Q83,0,4,3,0.64,0.9502705392332347
+128,Damiatta,Female,20,Egypt,Single,Middle,Lower middle class,Q83,1,4,1,0.0,0.0
+129,Damiatta,Female,20,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,1.3599999999999999,0.9502705392332347
+130,Damiatta,Female,20,Egypt,Single,Middle,Lower middle class,Q83,3,4,3,0.56,1.0549201679861442
+131,Damiatta,Male,19,Egypt,Single,Middle,Lower middle class,Q83,0,4,4,1.8400000000000003,1.0549201679861442
+132,Damiatta,Male,19,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+133,Damiatta,Male,19,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+134,Damiatta,Male,19,Egypt,Single,Middle,Lower middle class,Q83,3,4,3,0.24000000000000002,0.6730116670092565
+135,Damiatta,Female,33,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.84,1.0549201679861442
+136,Damiatta,Female,33,Egypt,Married,Higher,Lower middle class,Q83,1,4,3,0.25,0.6931471805599453
+137,Damiatta,Female,33,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,1.6875,0.5623351446188083
+138,Damiatta,Female,33,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.64,0.5004024235381879
+139,Damiatta,Male,24,Egypt,Single,Higher,Lower middle class,Q83,0,4,4,0.8,1.0549201679861442
+140,Damiatta,Male,24,Egypt,Single,Higher,Lower middle class,Q83,1,4,2,0.6666666666666666,1.0986122886681096
+141,Damiatta,Male,24,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+142,Damiatta,Male,24,Egypt,Single,Higher,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+143,Suez,Male,41,Egypt,Married,Middle,Working class,Q83,0,4,2,0.16,0.5004024235381879
+144,Suez,Male,41,Egypt,Married,Middle,Working class,Q83,1,4,1,1.5555555555555554,1.0986122886681096
+145,Suez,Male,41,Egypt,Married,Middle,Working class,Q83,2,4,1,1.5,1.0397207708399179
+146,Suez,Male,41,Egypt,Married,Middle,Working class,Q83,3,4,2,1.6,0.9502705392332347
+147,Suez,Female,39,Egypt,Divorced,Middle,Working class,Q83,0,4,3,0.64,0.9502705392332347
+148,Suez,Female,39,Egypt,Divorced,Middle,Working class,Q83,1,4,1,4.0,0.6931471805599453
+149,Suez,Female,39,Egypt,Divorced,Middle,Working class,Q83,2,4,2,1.6875,0.5623351446188083
+150,Suez,Female,39,Egypt,Divorced,Middle,Working class,Q83,3,4,2,0.16,0.5004024235381879
+151,Cairo,Female,55,Egypt,Married,Middle,Working class,Q83,0,4,2,0.64,0.5004024235381879
+152,Cairo,Female,55,Egypt,Married,Middle,Working class,Q83,1,4,5,0.0,0.0
+153,Cairo,Female,55,Egypt,Married,Middle,Working class,Q83,2,4,2,0.64,0.9502705392332347
+154,Cairo,Female,55,Egypt,Married,Middle,Working class,Q83,3,4,3,1.1875,1.0397207708399179
+155,Cairo,Male,58,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.56,1.0549201679861442
+156,Cairo,Male,58,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,2.25,0.6931471805599453
+157,Cairo,Male,58,Egypt,Married,Middle,Lower middle class,Q83,2,4,3,0.96,0.6730116670092565
+158,Cairo,Male,58,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.25,0.6931471805599453
+159,Cairo,Female,29,Egypt,Married,Higher,Lower middle class,Q83,0,4,3,1.2000000000000002,1.0549201679861442
+160,Cairo,Female,29,Egypt,Married,Higher,Lower middle class,Q83,1,4,5,1.9999999999999998,0.6365141682948128
+161,Cairo,Female,29,Egypt,Married,Higher,Lower middle class,Q83,2,4,5,2.8000000000000003,1.0549201679861442
+162,Cairo,Female,29,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+163,Cairo,Male,38,Egypt,Married,Higher,Lower middle class,Q83,0,4,3,0.64,0.9502705392332347
+164,Cairo,Male,38,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+165,Cairo,Male,38,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.64,0.5004024235381879
+166,Cairo,Female,40,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.04,1.3321790402101223
+167,Cairo,Female,40,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,1.5555555555555554,1.0986122886681096
+168,Cairo,Female,40,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,1.84,1.3321790402101223
+169,Cairo,Female,40,Egypt,Married,Higher,Lower middle class,Q83,3,4,5,2.24,1.0549201679861442
+170,Cairo,Male,38,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,1.4400000000000002,1.0549201679861442
+171,Cairo,Male,38,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,1.44,0.5004024235381879
+172,Cairo,Male,38,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.24,0.6730116670092565
+173,Cairo,Male,38,Egypt,Married,Higher,Upper middle class,Q83,3,4,1,0.8,1.0549201679861442
+174,Cairo,Male,59,Egypt,Married,Middle,Lower middle class,Q83,0,4,4,0.8,1.0549201679861442
+175,Cairo,Male,59,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,2.25,0.6931471805599453
+176,Cairo,Male,59,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.56,1.0549201679861442
+177,Cairo,Male,59,Egypt,Married,Middle,Lower middle class,Q83,3,4,5,1.44,1.0549201679861442
+178,Cairo,Female,30,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,1.3599999999999999,0.9502705392332347
+179,Cairo,Female,30,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.25,0.6931471805599453
+180,Cairo,Female,30,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.64,0.9502705392332347
+181,Cairo,Female,30,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.16,0.5004024235381879
+182,Cairo,Male,22,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+183,Cairo,Male,22,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,1.25,1.3862943611198906
+184,Cairo,Male,22,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.0,0.0
+185,Cairo,Male,22,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,0.24,0.6730116670092565
+186,Cairo,Male,29,Egypt,Single,Higher,Lower middle class,Q83,0,4,2,0.4,0.9502705392332347
+187,Cairo,Male,29,Egypt,Single,Higher,Lower middle class,Q83,1,4,5,2.25,0.6931471805599453
+188,Cairo,Male,29,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+189,Cairo,Male,29,Egypt,Single,Higher,Lower middle class,Q83,3,4,2,2.16,1.0549201679861442
+190,Cairo,Female,31,Egypt,Married,Higher,Lower middle class,Q83,0,4,5,1.6875,1.0397207708399179
+191,Cairo,Female,31,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.25,0.6931471805599453
+192,Cairo,Female,31,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+193,Cairo,Female,31,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+194,Cairo,Male,59,Egypt,Married,Higher,Upper middle class,Q83,0,4,3,0.8,1.0549201679861442
+195,Cairo,Male,59,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+196,Cairo,Male,59,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+197,Cairo,Male,59,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,1.04,1.3321790402101223
+198,Cairo,Male,27,Egypt,Single,Middle,Working class,Q83,0,4,2,0.4,0.9502705392332347
+199,Cairo,Male,27,Egypt,Single,Middle,Working class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+200,Cairo,Male,27,Egypt,Single,Middle,Working class,Q83,2,4,2,0.4,0.9502705392332347
+201,Cairo,Male,27,Egypt,Single,Middle,Working class,Q83,3,4,3,1.04,1.3321790402101223
+202,Cairo,Female,25,Egypt,Single,Higher,Working class,Q83,0,4,2,0.96,0.6730116670092565
+203,Cairo,Female,25,Egypt,Single,Higher,Working class,Q83,1,4,3,0.2222222222222222,0.6365141682948128
+204,Cairo,Female,25,Egypt,Single,Higher,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+205,Cairo,Female,25,Egypt,Single,Higher,Working class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+206,Cairo,Female,23,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+207,Cairo,Female,23,Egypt,Married,Higher,Lower middle class,Q83,1,4,1,0.6875,1.0397207708399179
+208,Cairo,Female,23,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.2222222222222222,0.6365141682948128
+209,Cairo,Female,23,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.84,1.3321790402101223
+210,Cairo,Male,58,Egypt,Married,Higher,Working class,Q83,0,4,1,0.8,1.0549201679861442
+211,Cairo,Male,58,Egypt,Married,Higher,Working class,Q83,1,4,2,1.6875,1.0397207708399179
+212,Cairo,Male,58,Egypt,Married,Higher,Working class,Q83,2,4,2,0.8,1.0549201679861442
+213,Cairo,Male,58,Egypt,Married,Higher,Working class,Q83,3,4,4,0.64,0.9502705392332347
+214,Cairo,Female,40,Egypt,Married,Higher,Working class,Q83,0,4,2,1.44,0.5004024235381879
+215,Cairo,Female,40,Egypt,Married,Higher,Working class,Q83,1,4,4,0.25,0.6931471805599453
+216,Cairo,Female,40,Egypt,Married,Higher,Working class,Q83,2,4,2,1.2000000000000002,1.0549201679861442
+217,Cairo,Female,40,Egypt,Married,Higher,Working class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+218,Cairo,Female,36,Egypt,Married,Middle,Upper middle class,Q83,0,4,3,0.4,0.9502705392332347
+219,Cairo,Female,36,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.25,0.6931471805599453
+220,Cairo,Female,36,Egypt,Married,Middle,Upper middle class,Q83,2,4,1,2.6875,1.0397207708399179
+221,Cairo,Female,36,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+222,Cairo,Male,40,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,1.2000000000000002,1.0549201679861442
+223,Cairo,Male,40,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,1.5555555555555554,1.0986122886681096
+224,Cairo,Male,40,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.96,0.9502705392332347
+225,Cairo,Male,40,Egypt,Married,Middle,Lower middle class,Q83,3,4,3,0.25,0.6931471805599453
+226,Cairo,Female,30,Egypt,Married,Middle,Lower class,Q83,0,4,5,1.3599999999999999,0.9502705392332347
+227,Cairo,Female,30,Egypt,Married,Middle,Lower class,Q83,1,4,2,2.25,0.6931471805599453
+228,Cairo,Female,30,Egypt,Married,Middle,Lower class,Q83,2,4,2,0.75,0.5623351446188083
+229,Cairo,Female,30,Egypt,Married,Middle,Lower class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+230,Cairo,Male,58,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.4,0.9502705392332347
+231,Cairo,Male,58,Egypt,Married,Higher,Lower middle class,Q83,1,4,5,2.888888888888889,1.0986122886681096
+232,Cairo,Male,58,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+233,Cairo,Male,58,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+234,Cairo,Male,50,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.5,1.0397207708399179
+235,Cairo,Male,50,Egypt,Married,Middle,Lower middle class,Q83,1,4,4,1.04,1.3321790402101223
+236,Cairo,Male,50,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.64,0.9502705392332347
+237,Cairo,Male,50,Egypt,Married,Middle,Lower middle class,Q83,3,4,4,1.44,1.0549201679861442
+238,Cairo,Female,40,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,1.3599999999999999,0.9502705392332347
+239,Cairo,Female,40,Egypt,Married,Higher,Upper middle class,Q83,1,4,1,0.25,0.6931471805599453
+240,Cairo,Female,40,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.96,0.9502705392332347
+241,Cairo,Female,40,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.64,0.9502705392332347
+242,Cairo,Female,33,Egypt,Married,Middle,Lower middle class,Q83,0,4,3,0.75,0.5623351446188083
+243,Cairo,Female,33,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,1.0,0.6931471805599453
+244,Cairo,Female,33,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+245,Cairo,Female,33,Egypt,Married,Middle,Lower middle class,Q83,3,4,5,1.3599999999999999,1.3321790402101223
+246,Cairo,Female,37,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.16,0.5004024235381879
+247,Cairo,Female,37,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,2.25,0.6931471805599453
+248,Cairo,Female,37,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.0,0.0
+249,Cairo,Female,37,Egypt,Married,Middle,Lower middle class,Q83,3,4,5,1.84,1.0549201679861442
+250,Cairo,Male,28,Egypt,Married,Middle,Lower middle class,Q83,0,4,1,2.64,1.3321790402101223
+251,Cairo,Male,28,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.64,0.9502705392332347
+252,Cairo,Male,28,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.36,1.3321790402101223
+253,Cairo,Male,53,Egypt,Married,Higher,Working class,Q83,0,4,2,1.1875,1.0397207708399179
+254,Cairo,Male,53,Egypt,Married,Higher,Working class,Q83,1,4,4,0.0,0.0
+255,Cairo,Male,53,Egypt,Married,Higher,Working class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+256,Cairo,Male,53,Egypt,Married,Higher,Working class,Q83,3,4,2,1.44,1.0549201679861442
+257,Cairo,Male,45,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.2000000000000002,1.0549201679861442
+258,Cairo,Male,45,Egypt,Married,Higher,Lower middle class,Q83,1,4,3,1.25,1.3862943611198906
+259,Cairo,Male,45,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+260,Cairo,Male,45,Egypt,Married,Higher,Lower middle class,Q83,3,4,3,1.04,1.3321790402101223
+261,Cairo,Male,52,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+262,Cairo,Male,52,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+263,Cairo,Male,52,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.16,0.5004024235381879
+264,Cairo,Male,52,Egypt,Married,Middle,Upper middle class,Q83,3,4,3,0.4,0.9502705392332347
+265,Cairo,Male,22,Egypt,Single,Higher,Lower middle class,Q83,0,4,3,0.24000000000000002,0.6730116670092565
+266,Cairo,Male,22,Egypt,Single,Higher,Lower middle class,Q83,1,4,2,1.6875,0.5623351446188083
+267,Cairo,Male,22,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+268,Cairo,Male,22,Egypt,Single,Higher,Lower middle class,Q83,3,4,2,1.6,0.9502705392332347
+269,Cairo,Female,57,Egypt,Divorced,Middle,Lower middle class,Q83,0,4,2,1.04,1.3321790402101223
+270,Cairo,Female,57,Egypt,Divorced,Middle,Lower middle class,Q83,1,4,1,0.6666666666666666,1.0986122886681096
+271,Cairo,Female,57,Egypt,Divorced,Middle,Lower middle class,Q83,2,4,3,0.56,1.0549201679861442
+272,Cairo,Female,57,Egypt,Divorced,Middle,Lower middle class,Q83,3,4,3,0.96,0.6730116670092565
+273,Cairo,Female,42,Egypt,Married,Middle,Working class,Q83,0,4,2,0.56,1.0549201679861442
+274,Cairo,Female,42,Egypt,Married,Middle,Working class,Q83,1,4,5,0.8888888888888888,0.6365141682948128
+275,Cairo,Female,42,Egypt,Married,Middle,Working class,Q83,2,4,2,1.3599999999999999,0.9502705392332347
+276,Cairo,Female,42,Egypt,Married,Middle,Working class,Q83,3,4,2,1.36,1.3321790402101223
+277,Cairo,Female,23,Egypt,Single,Middle,Lower middle class,Q83,0,4,5,1.6,0.9502705392332347
+278,Cairo,Female,23,Egypt,Single,Middle,Lower middle class,Q83,1,4,4,1.0,0.6931471805599453
+279,Cairo,Female,23,Egypt,Single,Middle,Lower middle class,Q83,2,4,5,1.84,1.0549201679861442
+280,Cairo,Female,23,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+281,Cairo,Female,28,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,1.3599999999999999,0.9502705392332347
+282,Cairo,Female,28,Egypt,Married,Higher,Upper middle class,Q83,1,4,1,0.25,0.6931471805599453
+283,Cairo,Female,28,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.1875,0.5623351446188083
+284,Cairo,Female,28,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.56,1.0549201679861442
+285,Cairo,Female,22,Egypt,Single,Higher,Lower middle class,Q83,0,4,2,0.75,0.5623351446188083
+286,Cairo,Female,22,Egypt,Single,Higher,Lower middle class,Q83,1,4,2,2.0,0.6365141682948128
+287,Cairo,Female,22,Egypt,Single,Higher,Lower middle class,Q83,2,4,1,0.25,0.6931471805599453
+288,Cairo,Female,22,Egypt,Single,Higher,Lower middle class,Q83,3,4,2,1.36,1.3321790402101223
+289,Cairo,Female,39,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.64,0.5004024235381879
+290,Cairo,Female,39,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,1.1875,1.0397207708399179
+291,Cairo,Female,39,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+292,Cairo,Male,19,Egypt,Single,Middle,Working class,Q83,0,4,2,1.2000000000000002,1.0549201679861442
+293,Cairo,Male,19,Egypt,Single,Middle,Working class,Q83,1,4,1,2.1875,1.3862943611198906
+294,Cairo,Male,19,Egypt,Single,Middle,Working class,Q83,2,4,2,0.64,0.9502705392332347
+295,Cairo,Male,19,Egypt,Single,Middle,Working class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+296,Cairo,Female,54,Egypt,Married,Middle,Working class,Q83,0,4,2,0.96,0.9502705392332347
+297,Cairo,Female,54,Egypt,Married,Middle,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+298,Cairo,Female,54,Egypt,Married,Middle,Working class,Q83,3,4,1,1.44,0.5004024235381879
+299,Cairo,Male,30,Egypt,Married,Higher,Working class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+300,Cairo,Male,30,Egypt,Married,Higher,Working class,Q83,1,4,3,0.0,0.0
+301,Cairo,Male,30,Egypt,Married,Higher,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+302,Cairo,Male,30,Egypt,Married,Higher,Working class,Q83,3,4,2,0.0,0.0
+303,Cairo,Male,39,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.64,0.5004024235381879
+304,Cairo,Male,39,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+305,Cairo,Male,39,Egypt,Married,Higher,Lower middle class,Q83,2,4,3,1.1875,1.0397207708399179
+306,Cairo,Male,39,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.0,0.0
+307,Cairo,Female,41,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.56,1.0549201679861442
+308,Cairo,Female,41,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+309,Cairo,Female,41,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.24,0.6730116670092565
+310,Cairo,Female,41,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.44,0.5004024235381879
+311,Cairo,Male,45,Syria,Single,Higher,Upper middle class,Q83,0,4,2,1.04,1.3321790402101223
+312,Cairo,Male,45,Syria,Single,Higher,Upper middle class,Q83,1,4,2,0.8888888888888888,0.6365141682948128
+313,Cairo,Male,45,Syria,Single,Higher,Upper middle class,Q83,2,4,2,0.64,0.5004024235381879
+314,Cairo,Male,45,Syria,Single,Higher,Upper middle class,Q83,3,4,2,0.16,0.5004024235381879
+315,Cairo,Male,54,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+316,Cairo,Male,54,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+317,Cairo,Male,54,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.6,0.9502705392332347
+318,Cairo,Male,65,Egypt,Married,Middle,Upper middle class,Q83,0,4,1,2.0,1.6094379124341005
+319,Cairo,Male,65,Egypt,Married,Middle,Upper middle class,Q83,1,4,3,0.25,0.6931471805599453
+320,Cairo,Male,65,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.5,1.0397207708399179
+321,Cairo,Male,65,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.0,0.0
+322,Cairo,Female,52,Egypt,Married,Middle,Upper middle class,Q83,0,4,3,0.96,0.9502705392332347
+323,Cairo,Female,52,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.0,0.0
+324,Cairo,Female,52,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.1875,0.5623351446188083
+325,Cairo,Female,52,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.4,0.9502705392332347
+326,Cairo,Male,26,Egypt,Single,Higher,Lower middle class,Q83,0,4,2,1.3599999999999999,0.9502705392332347
+327,Cairo,Male,26,Egypt,Single,Higher,Lower middle class,Q83,1,4,3,0.25,0.6931471805599453
+328,Cairo,Male,26,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+329,Cairo,Male,26,Egypt,Single,Higher,Lower middle class,Q83,3,4,2,0.24000000000000002,0.6730116670092565
+330,Cairo,Male,32,Egypt,Married,Middle,Working class,Q83,0,4,3,0.4,0.9502705392332347
+331,Cairo,Male,32,Egypt,Married,Middle,Working class,Q83,1,4,3,1.1875,1.0397207708399179
+332,Cairo,Male,32,Egypt,Married,Middle,Working class,Q83,2,4,4,0.16,0.5004024235381879
+333,Cairo,Male,32,Egypt,Married,Middle,Working class,Q83,3,4,3,1.04,1.3321790402101223
+334,Cairo,Male,38,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.1875,0.5623351446188083
+335,Cairo,Male,38,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,1.5,1.0397207708399179
+336,Cairo,Male,38,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.6875,1.0397207708399179
+337,Cairo,Male,38,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+338,Cairo,Male,58,Egypt,Married,Higher,Upper middle class,Q83,0,4,1,1.6,0.9502705392332347
+339,Cairo,Male,58,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.5,1.0397207708399179
+340,Cairo,Male,58,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,2.8000000000000003,1.0549201679861442
+341,Cairo,Male,58,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,1.44,0.5004024235381879
+342,Cairo,Male,49,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.1875,0.5623351446188083
+343,Cairo,Male,49,Egypt,Married,Middle,Lower middle class,Q83,1,4,1,1.0,0.6931471805599453
+344,Cairo,Male,49,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.96,0.9502705392332347
+345,Cairo,Male,49,Egypt,Married,Middle,Lower middle class,Q83,3,4,3,0.16,0.5004024235381879
+346,Cairo,Female,29,Egypt,Married,Middle,Working class,Q83,0,4,2,0.16000000000000003,0.5004024235381879
+347,Cairo,Female,29,Egypt,Married,Middle,Working class,Q83,1,4,5,2.6666666666666665,1.0986122886681096
+348,Cairo,Female,29,Egypt,Married,Middle,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+349,Cairo,Female,29,Egypt,Married,Middle,Working class,Q83,3,4,2,1.84,1.3321790402101223
+350,Cairo,Female,36,Egypt,Married,Higher,Lower middle class,Q83,0,4,3,0.24000000000000002,0.6730116670092565
+351,Cairo,Female,36,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,1.0,0.6931471805599453
+352,Cairo,Female,36,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.24,0.6730116670092565
+353,Cairo,Female,36,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.4,0.9502705392332347
+354,Cairo,Female,34,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+355,Cairo,Female,34,Egypt,Married,Middle,Lower middle class,Q83,1,4,1,0.0,0.0
+356,Cairo,Female,34,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,1.3599999999999999,0.9502705392332347
+357,Cairo,Female,34,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.56,1.0549201679861442
+358,Fayoum,Male,57,Egypt,Married,Middle,Working class,Q83,0,4,3,0.16,0.5004024235381879
+359,Fayoum,Male,57,Egypt,Married,Middle,Working class,Q83,1,4,2,0.25,0.6931471805599453
+360,Fayoum,Male,57,Egypt,Married,Middle,Working class,Q83,2,4,2,0.25,0.6931471805599453
+361,Fayoum,Male,57,Egypt,Married,Middle,Working class,Q83,3,4,2,0.24000000000000002,0.6730116670092565
+362,Fayoum,Male,60,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+363,Fayoum,Male,60,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+364,Fayoum,Male,60,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.96,0.6730116670092565
+365,Fayoum,Male,60,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+366,Fayoum,Male,21,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,1.04,1.3321790402101223
+367,Fayoum,Male,21,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,2.25,0.6931471805599453
+368,Fayoum,Male,21,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.96,0.9502705392332347
+369,Fayoum,Male,21,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+370,Fayoum,Male,33,Egypt,Single,Higher,Working class,Q83,0,4,2,0.0,0.0
+371,Fayoum,Male,33,Egypt,Single,Higher,Working class,Q83,1,4,1,2.0,0.6365141682948128
+372,Fayoum,Male,33,Egypt,Single,Higher,Working class,Q83,2,4,5,1.5555555555555554,1.0986122886681096
+373,Fayoum,Male,33,Egypt,Single,Higher,Working class,Q83,3,4,2,0.64,0.9502705392332347
+374,Fayoum,Male,32,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.3599999999999999,0.9502705392332347
+375,Fayoum,Male,32,Egypt,Married,Higher,Lower middle class,Q83,1,4,5,0.6666666666666666,1.0986122886681096
+376,Fayoum,Male,32,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+377,Fayoum,Male,32,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.6,0.9502705392332347
+378,Gharbia,Male,42,Egypt,Married,Higher,Upper middle class,Q83,0,4,3,0.64,0.5004024235381879
+379,Gharbia,Male,42,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.1875,0.5623351446188083
+380,Gharbia,Male,42,Egypt,Married,Higher,Upper middle class,Q83,2,4,3,1.04,1.3321790402101223
+381,Gharbia,Male,42,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.1875,0.5623351446188083
+382,Gharbia,Male,52,Egypt,Married,Middle,Working class,Q83,0,4,2,0.4,0.9502705392332347
+383,Gharbia,Male,52,Egypt,Married,Middle,Working class,Q83,2,4,2,0.0,0.0
+384,Gharbia,Male,52,Egypt,Married,Middle,Working class,Q83,3,4,2,1.6,0.9502705392332347
+385,Gharbia,Male,45,Egypt,Divorced,Higher,Upper middle class,Q83,0,4,3,1.4400000000000002,1.0549201679861442
+386,Gharbia,Male,45,Egypt,Divorced,Higher,Upper middle class,Q83,1,4,4,1.25,1.3862943611198906
+387,Gharbia,Male,45,Egypt,Divorced,Higher,Upper middle class,Q83,2,4,1,0.24,0.6730116670092565
+388,Gharbia,Male,45,Egypt,Divorced,Higher,Upper middle class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+389,Behaira,Male,23,Egypt,Single,Middle,Lower class,Q83,0,4,4,0.64,0.9502705392332347
+390,Behaira,Male,23,Egypt,Single,Middle,Lower class,Q83,1,4,4,0.25,0.6931471805599453
+391,Behaira,Male,23,Egypt,Single,Middle,Lower class,Q83,2,4,4,0.8,1.0549201679861442
+392,Behaira,Male,23,Egypt,Single,Middle,Lower class,Q83,3,4,2,1.8400000000000003,1.0549201679861442
+393,Behaira,Male,38,Egypt,Single,Higher,Lower class,Q83,0,4,2,0.16,0.5004024235381879
+394,Behaira,Male,38,Egypt,Single,Higher,Lower class,Q83,1,4,3,0.0,0.0
+395,Behaira,Male,38,Egypt,Single,Higher,Lower class,Q83,2,4,2,0.64,0.5004024235381879
+396,Behaira,Male,38,Egypt,Single,Higher,Lower class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+397,Behaira,Male,32,Egypt,Married,Middle,Lower class,Q83,0,4,3,0.16,0.5004024235381879
+398,Behaira,Male,32,Egypt,Married,Middle,Lower class,Q83,1,4,3,0.8888888888888888,0.6365141682948128
+399,Behaira,Male,32,Egypt,Married,Middle,Lower class,Q83,2,4,2,1.1875,1.0397207708399179
+400,Behaira,Male,32,Egypt,Married,Middle,Lower class,Q83,3,4,2,2.16,0.6730116670092565
+401,Behaira,Female,37,Egypt,Married,Middle,Working class,Q83,0,4,2,0.64,0.5004024235381879
+402,Behaira,Female,37,Egypt,Married,Middle,Working class,Q83,1,4,2,1.3599999999999999,0.9502705392332347
+403,Behaira,Female,37,Egypt,Married,Middle,Working class,Q83,2,4,2,1.6875,0.5623351446188083
+404,Behaira,Female,37,Egypt,Married,Middle,Working class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+405,Behaira,Male,48,Egypt,Married,Middle,Working class,Q83,0,4,3,0.24000000000000002,0.6730116670092565
+406,Behaira,Male,48,Egypt,Married,Middle,Working class,Q83,1,4,2,1.0,0.6931471805599453
+407,Behaira,Male,48,Egypt,Married,Middle,Working class,Q83,2,4,2,0.0,0.0
+408,Behaira,Male,48,Egypt,Married,Middle,Working class,Q83,3,4,2,1.04,1.3321790402101223
+409,Behaira,Female,34,Egypt,Married,Middle,Lower class,Q83,0,4,2,0.5,1.0397207708399179
+410,Behaira,Female,34,Egypt,Married,Middle,Lower class,Q83,1,4,1,0.0,0.0
+411,Behaira,Female,34,Egypt,Married,Middle,Lower class,Q83,2,4,3,0.5,1.0397207708399179
+412,Behaira,Female,34,Egypt,Married,Middle,Lower class,Q83,3,4,3,0.56,1.0549201679861442
+413,Behaira,Female,30,Egypt,Divorced,Lower,Lower class,Q83,0,4,2,2.16,1.3321790402101223
+414,Behaira,Female,30,Egypt,Divorced,Lower,Lower class,Q83,2,4,2,0.16,0.5004024235381879
+415,Behaira,Female,30,Egypt,Divorced,Lower,Lower class,Q83,3,4,2,0.8,1.0549201679861442
+416,Behaira,Male,40,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.96,0.6730116670092565
+417,Behaira,Male,40,Egypt,Married,Higher,Lower middle class,Q83,1,4,1,2.888888888888889,1.0986122886681096
+418,Behaira,Male,40,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,1.44,0.5004024235381879
+419,Behaira,Male,40,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.6875,0.5623351446188083
+420,Behaira,Male,38,Egypt,Married,Middle,Working class,Q83,0,4,2,1.04,1.3321790402101223
+421,Behaira,Male,38,Egypt,Married,Middle,Working class,Q83,1,4,3,0.8888888888888888,0.6365141682948128
+422,Behaira,Male,38,Egypt,Married,Middle,Working class,Q83,2,4,2,2.16,1.0549201679861442
+423,Behaira,Male,38,Egypt,Married,Middle,Working class,Q83,3,4,1,0.56,1.0549201679861442
+424,Behaira,Female,30,Egypt,Married,Higher,Lower class,Q83,0,4,2,0.64,0.5004024235381879
+425,Behaira,Female,30,Egypt,Married,Higher,Lower class,Q83,1,4,2,0.0,0.0
+426,Behaira,Female,30,Egypt,Married,Higher,Lower class,Q83,2,4,2,0.75,0.5623351446188083
+427,Behaira,Female,30,Egypt,Married,Higher,Lower class,Q83,3,4,2,1.04,1.3321790402101223
+428,Behaira,Female,35,Egypt,Married,Middle,Working class,Q83,0,4,2,0.64,0.5004024235381879
+429,Behaira,Female,35,Egypt,Married,Middle,Working class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+430,Behaira,Female,35,Egypt,Married,Middle,Working class,Q83,2,4,2,1.44,0.5004024235381879
+431,Behaira,Female,35,Egypt,Married,Middle,Working class,Q83,3,4,3,0.64,0.9502705392332347
+432,Behaira,Male,52,Egypt,Married,Middle,Lower class,Q83,0,4,4,0.24,0.6730116670092565
+433,Behaira,Male,52,Egypt,Married,Middle,Lower class,Q83,1,4,1,0.0,0.0
+434,Behaira,Male,52,Egypt,Married,Middle,Lower class,Q83,2,4,2,0.96,0.9502705392332347
+435,Behaira,Male,52,Egypt,Married,Middle,Lower class,Q83,3,4,3,0.56,1.0549201679861442
+436,Alexandria,Female,41,Egypt,Single,Middle,Lower class,Q83,0,4,5,1.5,1.0397207708399179
+437,Alexandria,Female,41,Egypt,Single,Middle,Lower class,Q83,1,4,5,0.0,0.0
+438,Alexandria,Female,41,Egypt,Single,Middle,Lower class,Q83,2,4,4,1.84,1.0549201679861442
+439,Alexandria,Female,41,Egypt,Single,Middle,Lower class,Q83,3,4,2,1.04,1.3321790402101223
+440,Alexandria,Female,21,Egypt,Single,Middle,Lower class,Q83,0,4,3,1.2000000000000002,1.0549201679861442
+441,Alexandria,Female,21,Egypt,Single,Middle,Lower class,Q83,1,4,4,0.25,0.6931471805599453
+442,Alexandria,Female,21,Egypt,Single,Middle,Lower class,Q83,2,4,2,0.0,0.0
+443,Alexandria,Female,21,Egypt,Single,Middle,Lower class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+444,Alexandria,Female,35,Egypt,Married,Middle,Lower class,Q83,0,4,3,1.04,1.3321790402101223
+445,Alexandria,Female,35,Egypt,Married,Middle,Lower class,Q83,1,4,3,0.25,0.6931471805599453
+446,Alexandria,Female,35,Egypt,Married,Middle,Lower class,Q83,2,4,2,1.6875,0.5623351446188083
+447,Alexandria,Female,35,Egypt,Married,Middle,Lower class,Q83,3,4,2,1.6,0.9502705392332347
+448,Alexandria,Male,34,Egypt,Married,Higher,Working class,Q83,0,4,3,0.4,0.9502705392332347
+449,Alexandria,Male,34,Egypt,Married,Higher,Working class,Q83,1,4,2,0.0,0.0
+450,Alexandria,Male,34,Egypt,Married,Higher,Working class,Q83,2,4,2,0.0,0.0
+451,Alexandria,Male,34,Egypt,Married,Higher,Working class,Q83,3,4,3,0.16,0.5004024235381879
+452,Alexandria,Female,37,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.84,1.3321790402101223
+453,Alexandria,Female,37,Egypt,Married,Higher,Lower middle class,Q83,1,4,4,0.8888888888888888,0.6365141682948128
+454,Alexandria,Female,37,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+455,Alexandria,Female,37,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.24000000000000002,0.6730116670092565
+456,Alexandria,Female,56,Egypt,Divorced,Middle,Working class,Q83,0,4,2,1.6875,0.5623351446188083
+457,Alexandria,Female,56,Egypt,Divorced,Middle,Working class,Q83,1,4,2,0.0,0.0
+458,Alexandria,Female,56,Egypt,Divorced,Middle,Working class,Q83,2,4,2,1.84,1.0549201679861442
+459,Alexandria,Female,56,Egypt,Divorced,Middle,Working class,Q83,3,4,2,1.6,0.9502705392332347
+460,Alexandria,Male,48,Egypt,Married,Higher,Working class,Q83,0,4,2,0.64,0.9502705392332347
+461,Alexandria,Male,48,Egypt,Married,Higher,Working class,Q83,1,4,2,0.5,1.0397207708399179
+462,Alexandria,Male,48,Egypt,Married,Higher,Working class,Q83,2,4,1,1.3600000000000003,0.9502705392332347
+463,Alexandria,Male,48,Egypt,Married,Higher,Working class,Q83,3,4,2,0.64,0.9502705392332347
+464,Alexandria,Female,30,Egypt,Married,Middle,Working class,Q83,0,4,3,0.64,0.9502705392332347
+465,Alexandria,Female,30,Egypt,Married,Middle,Working class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+466,Alexandria,Female,30,Egypt,Married,Middle,Working class,Q83,2,4,2,1.3599999999999999,0.9502705392332347
+467,Alexandria,Female,30,Egypt,Married,Middle,Working class,Q83,3,4,2,0.56,1.0549201679861442
+468,Alexandria,Male,19,Egypt,Single,Middle,Lower class,Q83,0,4,3,0.64,0.9502705392332347
+469,Alexandria,Male,19,Egypt,Single,Middle,Lower class,Q83,1,4,1,0.0,0.0
+470,Alexandria,Male,19,Egypt,Single,Middle,Lower class,Q83,2,4,3,0.56,1.0549201679861442
+471,Alexandria,Male,19,Egypt,Single,Middle,Lower class,Q83,3,4,4,0.64,0.9502705392332347
+472,Alexandria,Male,45,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,1.04,1.3321790402101223
+473,Alexandria,Male,45,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.6666666666666666,1.0986122886681096
+474,Alexandria,Male,45,Egypt,Married,Middle,Lower middle class,Q83,2,4,1,2.16,1.0549201679861442
+475,Alexandria,Male,45,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.6,0.9502705392332347
+476,Alexandria,Male,23,Egypt,Single,Higher,Lower class,Q83,0,4,2,0.56,1.0549201679861442
+477,Alexandria,Male,23,Egypt,Single,Higher,Lower class,Q83,1,4,3,0.25,0.6931471805599453
+478,Alexandria,Male,23,Egypt,Single,Higher,Lower class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+479,Alexandria,Male,23,Egypt,Single,Higher,Lower class,Q83,3,4,2,0.96,0.6730116670092565
+480,Alexandria,Female,28,Egypt,Married,Middle,Working class,Q83,0,4,2,0.0,0.0
+481,Alexandria,Female,28,Egypt,Married,Middle,Working class,Q83,1,4,5,0.0,0.0
+482,Alexandria,Female,28,Egypt,Married,Middle,Working class,Q83,2,4,2,0.0,0.0
+483,Alexandria,Female,28,Egypt,Married,Middle,Working class,Q83,3,4,5,1.6,0.9502705392332347
+484,Alexandria,Male,34,Egypt,Single,Higher,Working class,Q83,0,4,2,0.16,0.5004024235381879
+485,Alexandria,Male,34,Egypt,Single,Higher,Working class,Q83,1,4,3,1.0,0.6931471805599453
+486,Alexandria,Male,34,Egypt,Single,Higher,Working class,Q83,2,4,2,1.44,0.5004024235381879
+487,Alexandria,Male,34,Egypt,Single,Higher,Working class,Q83,3,4,5,1.84,1.0549201679861442
+488,Alexandria,Male,30,Egypt,Married,Higher,Lower middle class,Q83,0,4,3,1.04,1.3321790402101223
+489,Alexandria,Male,30,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.1875,0.5623351446188083
+490,Alexandria,Male,30,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.25,0.6931471805599453
+491,Alexandria,Male,30,Egypt,Married,Higher,Lower middle class,Q83,3,4,4,0.56,1.0549201679861442
+492,Alexandria,Female,49,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.56,1.0549201679861442
+493,Alexandria,Female,49,Egypt,Married,Higher,Lower middle class,Q83,1,4,5,1.5555555555555554,1.0986122886681096
+494,Alexandria,Female,49,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+495,Alexandria,Female,49,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.16,0.5004024235381879
+496,Kafr el-sheikh,Male,49,Egypt,Married,Higher,Working class,Q83,0,4,3,0.56,1.0549201679861442
+497,Kafr el-sheikh,Male,49,Egypt,Married,Higher,Working class,Q83,1,4,5,2.25,0.6931471805599453
+498,Kafr el-sheikh,Male,49,Egypt,Married,Higher,Working class,Q83,2,4,2,0.5,1.0397207708399179
+499,Kafr el-sheikh,Male,49,Egypt,Married,Higher,Working class,Q83,3,4,1,0.64,0.9502705392332347
+500,Kafr el-sheikh,Male,25,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,1.04,1.3321790402101223
+501,Kafr el-sheikh,Male,25,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+502,Kafr el-sheikh,Male,25,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.24,0.6730116670092565
+503,Kafr el-sheikh,Male,25,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+504,Kafr el-sheikh,Male,59,Egypt,Married,Higher,Lower middle class,Q83,0,4,3,0.56,1.0549201679861442
+505,Kafr el-sheikh,Male,59,Egypt,Married,Higher,Lower middle class,Q83,1,4,3,0.2222222222222222,0.6365141682948128
+506,Kafr el-sheikh,Male,59,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.64,0.5004024235381879
+507,Kafr el-sheikh,Male,59,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+508,Kafr el-sheikh,Female,38,Egypt,Married,Middle,Working class,Q83,0,4,3,1.04,1.3321790402101223
+509,Kafr el-sheikh,Female,38,Egypt,Married,Middle,Working class,Q83,1,4,5,0.8888888888888888,0.6365141682948128
+510,Kafr el-sheikh,Female,38,Egypt,Married,Middle,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+511,Kafr el-sheikh,Female,38,Egypt,Married,Middle,Working class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+512,Kafr el-sheikh,Male,35,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.84,1.3321790402101223
+513,Kafr el-sheikh,Male,35,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.6666666666666666,1.0986122886681096
+514,Kafr el-sheikh,Male,35,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,1.44,0.5004024235381879
+515,Kafr el-sheikh,Male,35,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.0,0.0
+516,Kafr el-sheikh,Male,49,Egypt,Married,Middle,Lower class,Q83,0,4,4,0.56,1.0549201679861442
+517,Kafr el-sheikh,Male,49,Egypt,Married,Middle,Lower class,Q83,1,4,1,0.0,0.0
+518,Kafr el-sheikh,Male,49,Egypt,Married,Middle,Lower class,Q83,2,4,3,1.04,1.3321790402101223
+519,Kafr el-sheikh,Male,49,Egypt,Married,Middle,Lower class,Q83,3,4,2,0.4,0.9502705392332347
+520,Kafr el-sheikh,Male,37,Egypt,Married,Middle,Lower class,Q83,0,4,2,0.8,1.0549201679861442
+521,Kafr el-sheikh,Male,37,Egypt,Married,Middle,Lower class,Q83,1,4,2,0.0,0.0
+522,Kafr el-sheikh,Male,37,Egypt,Married,Middle,Lower class,Q83,2,4,4,1.36,1.3321790402101223
+523,Kafr el-sheikh,Male,37,Egypt,Married,Middle,Lower class,Q83,3,4,5,2.6399999999999997,1.3321790402101223
+524,Menofia,Female,22,Egypt,Single,Middle,Lower class,Q83,0,4,5,1.44,1.0549201679861442
+525,Menofia,Female,22,Egypt,Single,Middle,Lower class,Q83,1,4,3,0.0,0.0
+526,Menofia,Female,22,Egypt,Single,Middle,Lower class,Q83,2,4,1,3.1875,1.0397207708399179
+527,Menofia,Female,22,Egypt,Single,Middle,Lower class,Q83,3,4,5,2.6399999999999997,1.3321790402101223
+528,Menofia,Female,25,Egypt,Married,Middle,Lower class,Q83,0,4,2,0.1875,0.5623351446188083
+529,Menofia,Female,25,Egypt,Married,Middle,Lower class,Q83,1,4,5,0.0,0.0
+530,Menofia,Female,25,Egypt,Married,Middle,Lower class,Q83,2,4,5,0.0,0.0
+531,Menofia,Female,25,Egypt,Married,Middle,Lower class,Q83,3,4,2,0.64,0.9502705392332347
+532,Menofia,Male,28,Egypt,Single,Higher,Working class,Q83,0,4,3,0.24000000000000002,0.6730116670092565
+533,Menofia,Male,28,Egypt,Single,Higher,Working class,Q83,1,4,1,2.888888888888889,1.0986122886681096
+534,Menofia,Male,28,Egypt,Single,Higher,Working class,Q83,2,4,2,0.16,0.5004024235381879
+535,Menofia,Male,28,Egypt,Single,Higher,Working class,Q83,3,4,4,2.16,1.3321790402101223
+536,Menofia,Male,35,Egypt,Married,Middle,Lower middle class,Q83,0,4,1,1.36,1.3321790402101223
+537,Menofia,Male,35,Egypt,Married,Middle,Lower middle class,Q83,1,4,3,0.0,0.0
+538,Menofia,Male,35,Egypt,Married,Middle,Lower middle class,Q83,2,4,4,0.96,0.6730116670092565
+539,Menofia,Male,35,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.6875,1.0397207708399179
+540,Menofia,Male,55,Egypt,Married,Middle,Working class,Q83,0,4,1,1.36,1.3321790402101223
+541,Menofia,Male,55,Egypt,Married,Middle,Working class,Q83,1,4,2,2.25,0.6931471805599453
+542,Menofia,Male,55,Egypt,Married,Middle,Working class,Q83,2,4,2,0.4,0.9502705392332347
+543,Menofia,Male,55,Egypt,Married,Middle,Working class,Q83,3,4,2,1.04,1.3321790402101223
+544,Menofia,Male,53,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.8,1.0549201679861442
+545,Menofia,Male,53,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.0,0.0
+546,Menofia,Male,53,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.24000000000000002,0.6730116670092565
+547,Menofia,Male,53,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.24,0.6730116670092565
+548,Menofia,Male,59,Egypt,Married,Middle,Working class,Q83,0,4,4,1.0,0.6931471805599453
+549,Menofia,Male,59,Egypt,Married,Middle,Working class,Q83,1,4,4,0.0,0.0
+550,Menofia,Male,59,Egypt,Married,Middle,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+551,Menofia,Male,59,Egypt,Married,Middle,Working class,Q83,3,4,5,2.6399999999999997,1.3321790402101223
+552,Menofia,Female,42,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.16,0.5004024235381879
+553,Menofia,Female,42,Egypt,Married,Middle,Lower middle class,Q83,1,4,3,1.5555555555555554,1.0986122886681096
+554,Menofia,Female,42,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,2.16,0.6730116670092565
+555,Menofia,Female,42,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.5555555555555554,1.0986122886681096
+556,Menofia,Male,39,Egypt,Married,Higher,Working class,Q83,0,4,2,0.24,0.6730116670092565
+557,Menofia,Male,39,Egypt,Married,Higher,Working class,Q83,2,4,2,1.6875,1.0397207708399179
+558,Menofia,Male,39,Egypt,Married,Higher,Working class,Q83,3,4,2,2.16,1.0549201679861442
+559,Menofia,Male,34,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.75,0.5623351446188083
+560,Menofia,Male,34,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,0.0,0.0
+561,Menofia,Male,34,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.5,1.0397207708399179
+562,Menofia,Male,34,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.4400000000000002,1.0549201679861442
+563,Menofia,Male,22,Egypt,Single,Higher,Working class,Q83,0,4,2,0.4,0.9502705392332347
+564,Menofia,Male,22,Egypt,Single,Higher,Working class,Q83,1,4,5,1.5555555555555554,1.0986122886681096
+565,Menofia,Male,22,Egypt,Single,Higher,Working class,Q83,2,4,4,1.0,0.6931471805599453
+566,Menofia,Male,22,Egypt,Single,Higher,Working class,Q83,3,4,2,0.96,0.6730116670092565
+567,Menofia,Male,21,Egypt,Single,Middle,Working class,Q83,0,4,3,0.24000000000000002,0.6730116670092565
+568,Menofia,Male,21,Egypt,Single,Middle,Working class,Q83,1,4,1,1.0,0.6931471805599453
+569,Menofia,Male,21,Egypt,Single,Middle,Working class,Q83,2,4,2,0.24,0.6730116670092565
+570,Menofia,Male,21,Egypt,Single,Middle,Working class,Q83,3,4,3,0.5,1.0397207708399179
+571,Menofia,Male,36,Egypt,Married,Higher,Working class,Q83,0,4,4,0.8,1.0549201679861442
+572,Menofia,Male,36,Egypt,Married,Higher,Working class,Q83,1,4,3,1.0,0.6931471805599453
+573,Menofia,Male,36,Egypt,Married,Higher,Working class,Q83,2,4,2,0.75,0.5623351446188083
+574,Menofia,Male,36,Egypt,Married,Higher,Working class,Q83,3,4,1,2.16,1.0549201679861442
+575,Menofia,Female,52,Egypt,Married,Higher,Lower middle class,Q83,0,4,3,1.1875,1.0397207708399179
+576,Menofia,Female,52,Egypt,Married,Higher,Lower middle class,Q83,1,4,1,0.0,0.0
+577,Menofia,Female,52,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.24000000000000002,0.6730116670092565
+578,Menofia,Female,52,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.6,0.9502705392332347
+579,Menofia,Male,52,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.3599999999999999,0.9502705392332347
+580,Menofia,Male,52,Egypt,Married,Higher,Lower middle class,Q83,1,4,3,0.2222222222222222,0.6365141682948128
+581,Menofia,Male,52,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.75,0.5623351446188083
+582,Menofia,Male,52,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.96,0.9502705392332347
+583,Menofia,Male,39,Egypt,Married,Middle,Lower class,Q83,0,4,4,0.56,1.0549201679861442
+584,Menofia,Male,39,Egypt,Married,Middle,Lower class,Q83,1,4,1,0.25,0.6931471805599453
+585,Menofia,Male,39,Egypt,Married,Middle,Lower class,Q83,2,4,3,2.1875,1.3862943611198906
+586,Menofia,Male,39,Egypt,Married,Middle,Lower class,Q83,3,4,4,1.04,1.3321790402101223
+587,Menofia,Male,23,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,0.4,0.9502705392332347
+588,Menofia,Male,23,Egypt,Single,Middle,Lower middle class,Q83,1,4,5,2.6875,1.0397207708399179
+589,Menofia,Male,23,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+590,Menofia,Male,23,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,0.64,0.5004024235381879
+591,Dakahlia,Female,24,Egypt,Single,Higher,Lower middle class,Q83,0,4,3,0.56,1.0549201679861442
+592,Dakahlia,Female,24,Egypt,Single,Higher,Lower middle class,Q83,1,4,5,0.0,0.0
+593,Dakahlia,Female,24,Egypt,Single,Higher,Lower middle class,Q83,2,4,1,1.5,1.0397207708399179
+594,Dakahlia,Female,24,Egypt,Single,Higher,Lower middle class,Q83,3,4,2,1.2000000000000002,1.0549201679861442
+595,Dakahlia,Male,36,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.56,1.0549201679861442
+596,Dakahlia,Male,36,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,2.0,0.6365141682948128
+597,Dakahlia,Male,36,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.1875,0.5623351446188083
+598,Dakahlia,Male,36,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,2.16,1.0549201679861442
+599,Dakahlia,Female,71,Egypt,Married,Higher,Upper middle class,Q83,0,4,5,2.25,0.6931471805599453
+600,Dakahlia,Female,71,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.0,0.0
+601,Dakahlia,Female,71,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.25,0.6931471805599453
+602,Dakahlia,Female,71,Egypt,Married,Higher,Upper middle class,Q83,3,4,5,2.56,1.3321790402101223
+603,Dakahlia,Male,55,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,1.04,1.3321790402101223
+604,Dakahlia,Male,55,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.0,0.0
+605,Dakahlia,Male,55,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.4,0.9502705392332347
+606,Dakahlia,Male,55,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+607,Dakahlia,Male,64,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.16000000000000003,0.5004024235381879
+608,Dakahlia,Male,64,Egypt,Married,Higher,Lower middle class,Q83,1,4,1,0.25,0.6931471805599453
+609,Dakahlia,Male,64,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+610,Dakahlia,Male,64,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.0,0.0
+611,Dakahlia,Female,29,Egypt,Married,Middle,Lower class,Q83,0,4,3,1.0,0.6931471805599453
+612,Dakahlia,Female,29,Egypt,Married,Middle,Lower class,Q83,1,4,5,0.0,0.0
+613,Dakahlia,Female,29,Egypt,Married,Middle,Lower class,Q83,2,4,2,1.36,1.3321790402101223
+614,Dakahlia,Female,29,Egypt,Married,Middle,Lower class,Q83,3,4,2,0.64,0.5004024235381879
+615,Dakahlia,Female,40,Egypt,Married,Middle,Upper middle class,Q83,0,4,3,0.5,1.0397207708399179
+616,Dakahlia,Female,40,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.25,0.6931471805599453
+617,Dakahlia,Female,40,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.8888888888888888,0.6365141682948128
+618,Dakahlia,Female,40,Egypt,Married,Middle,Upper middle class,Q83,3,4,3,2.1875,1.3862943611198906
+619,Dakahlia,Male,37,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.6,0.9502705392332347
+620,Dakahlia,Male,37,Egypt,Married,Higher,Lower middle class,Q83,1,4,1,0.25,0.6931471805599453
+621,Dakahlia,Male,37,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.96,0.9502705392332347
+622,Dakahlia,Male,37,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.44,0.5004024235381879
+623,Dakahlia,Female,45,Egypt,Married,Middle,Working class,Q83,0,4,1,2.64,1.3321790402101223
+624,Dakahlia,Female,45,Egypt,Married,Middle,Working class,Q83,1,4,5,2.25,0.6931471805599453
+625,Dakahlia,Female,45,Egypt,Married,Middle,Working class,Q83,2,4,2,1.6875,0.5623351446188083
+626,Dakahlia,Female,45,Egypt,Married,Middle,Working class,Q83,3,4,3,0.4,0.9502705392332347
+627,Dakahlia,Male,34,Egypt,Single,Middle,Lower middle class,Q83,0,4,4,0.6875,1.0397207708399179
+628,Dakahlia,Male,34,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,2.25,0.6931471805599453
+629,Dakahlia,Male,34,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.16,0.5004024235381879
+630,Dakahlia,Male,34,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,1.36,1.3321790402101223
+631,Dakahlia,Female,26,Egypt,Married,Higher,Upper middle class,Q83,0,4,5,1.8400000000000003,1.0549201679861442
+632,Dakahlia,Female,26,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.0,0.0
+633,Dakahlia,Female,26,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.25,0.6931471805599453
+634,Dakahlia,Female,26,Egypt,Married,Higher,Upper middle class,Q83,3,4,3,1.7600000000000002,1.3321790402101223
+635,Dakahlia,Male,21,Egypt,Single,Middle,Upper middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+636,Dakahlia,Male,21,Egypt,Single,Middle,Upper middle class,Q83,1,4,2,2.25,0.6931471805599453
+637,Dakahlia,Male,21,Egypt,Single,Middle,Upper middle class,Q83,2,4,2,0.96,0.6730116670092565
+638,Dakahlia,Male,21,Egypt,Single,Middle,Upper middle class,Q83,3,4,3,0.4,0.9502705392332347
+639,Dakahlia,Female,32,Egypt,Married,Middle,Working class,Q83,0,4,2,0.16,0.5004024235381879
+640,Dakahlia,Female,32,Egypt,Married,Middle,Working class,Q83,1,4,1,4.0,0.6931471805599453
+641,Dakahlia,Female,32,Egypt,Married,Middle,Working class,Q83,2,4,5,1.5555555555555554,1.0986122886681096
+642,Dakahlia,Female,32,Egypt,Married,Middle,Working class,Q83,3,4,2,0.96,0.9502705392332347
+643,Dakahlia,Female,35,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.56,1.0549201679861442
+644,Dakahlia,Female,35,Egypt,Married,Middle,Upper middle class,Q83,1,4,4,0.0,0.0
+645,Dakahlia,Female,35,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,2.16,1.3321790402101223
+646,Dakahlia,Female,35,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,1.6,0.9502705392332347
+647,Dakahlia,Male,33,Egypt,Married,Middle,Upper middle class,Q83,0,4,4,0.8,1.0549201679861442
+648,Dakahlia,Male,33,Egypt,Married,Middle,Upper middle class,Q83,1,4,5,0.0,0.0
+649,Dakahlia,Male,33,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.0,0.0
+650,Dakahlia,Male,33,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.16,0.5004024235381879
+651,Dakahlia,Female,45,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,1.5555555555555554,1.0986122886681096
+652,Dakahlia,Female,45,Egypt,Married,Middle,Upper middle class,Q83,1,4,4,0.0,0.0
+653,Dakahlia,Female,45,Egypt,Married,Middle,Upper middle class,Q83,2,4,3,0.6666666666666666,1.0986122886681096
+654,Dakahlia,Female,45,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,1.6,0.9502705392332347
+655,Dakahlia,Male,30,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+656,Dakahlia,Male,30,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+657,Dakahlia,Male,30,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.56,1.0549201679861442
+658,Dakahlia,Male,30,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,1.44,0.5004024235381879
+659,Dakahlia,Female,63,Egypt,Married,Higher,Lower middle class,Q83,0,4,1,1.2000000000000002,1.0549201679861442
+660,Dakahlia,Female,63,Egypt,Married,Higher,Lower middle class,Q83,1,4,5,0.0,0.0
+661,Dakahlia,Female,63,Egypt,Married,Higher,Lower middle class,Q83,2,4,1,2.888888888888889,1.0986122886681096
+662,Dakahlia,Female,63,Egypt,Married,Higher,Lower middle class,Q83,3,4,5,0.96,0.6730116670092565
+663,Dakahlia,Male,28,Egypt,Single,Higher,Upper middle class,Q83,0,4,2,0.96,0.6730116670092565
+664,Dakahlia,Male,28,Egypt,Single,Higher,Upper middle class,Q83,1,4,2,2.0,0.6365141682948128
+665,Dakahlia,Male,28,Egypt,Single,Higher,Upper middle class,Q83,2,4,2,0.64,0.5004024235381879
+666,Dakahlia,Male,28,Egypt,Single,Higher,Upper middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+667,Dakahlia,Female,24,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.0,0.0
+668,Dakahlia,Female,24,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,1.6875,1.0397207708399179
+669,Dakahlia,Female,24,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.0,0.0
+670,Dakahlia,Female,24,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,1.44,0.5004024235381879
+671,Dakahlia,Male,20,Egypt,Single,Middle,Upper middle class,Q83,0,4,2,2.16,1.3321790402101223
+672,Dakahlia,Male,20,Egypt,Single,Middle,Upper middle class,Q83,1,4,5,0.0,0.0
+673,Dakahlia,Male,20,Egypt,Single,Middle,Upper middle class,Q83,2,4,2,0.0,0.0
+674,Dakahlia,Male,20,Egypt,Single,Middle,Upper middle class,Q83,3,4,2,0.64,0.9502705392332347
+675,Dakahlia,Male,45,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.56,1.0549201679861442
+676,Dakahlia,Male,45,Egypt,Married,Middle,Upper middle class,Q83,1,4,1,0.0,0.0
+677,Dakahlia,Male,45,Egypt,Married,Middle,Upper middle class,Q83,2,4,4,2.16,1.3321790402101223
+678,Dakahlia,Male,45,Egypt,Married,Middle,Upper middle class,Q83,3,4,3,0.56,1.0549201679861442
+679,Dakahlia,Female,43,Egypt,Married,Higher,Upper middle class,Q83,0,4,3,0.16,0.5004024235381879
+680,Dakahlia,Female,43,Egypt,Married,Higher,Upper middle class,Q83,1,4,4,0.25,0.6931471805599453
+681,Dakahlia,Female,43,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+682,Dakahlia,Female,43,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+683,Dakahlia,Female,20,Egypt,Single,Middle,Upper middle class,Q83,0,4,2,0.16,0.5004024235381879
+684,Dakahlia,Female,20,Egypt,Single,Middle,Upper middle class,Q83,1,4,3,1.1875,1.0397207708399179
+685,Dakahlia,Female,20,Egypt,Single,Middle,Upper middle class,Q83,2,4,2,0.2222222222222222,0.6365141682948128
+686,Dakahlia,Female,20,Egypt,Single,Middle,Upper middle class,Q83,3,4,3,1.04,1.3321790402101223
+687,Dakahlia,Female,40,Egypt,Single,Middle,Lower middle class,Q83,0,4,3,0.25,0.6931471805599453
+688,Dakahlia,Female,40,Egypt,Single,Middle,Lower middle class,Q83,1,4,5,3.5555555555555554,0.6365141682948128
+689,Dakahlia,Female,40,Egypt,Single,Middle,Lower middle class,Q83,2,4,5,1.3599999999999999,1.3321790402101223
+690,Dakahlia,Female,40,Egypt,Single,Middle,Lower middle class,Q83,3,4,1,0.8,1.0549201679861442
+691,Dakahlia,Female,33,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+692,Dakahlia,Female,33,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.0,0.0
+693,Dakahlia,Female,33,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.64,0.5004024235381879
+694,Dakahlia,Female,33,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.0,0.0
+695,Dakahlia,Female,24,Egypt,Married,Middle,Working class,Q83,0,4,2,1.36,1.3321790402101223
+696,Dakahlia,Female,24,Egypt,Married,Middle,Working class,Q83,1,4,2,0.0,0.0
+697,Dakahlia,Female,24,Egypt,Married,Middle,Working class,Q83,2,4,2,0.64,0.9502705392332347
+698,Dakahlia,Female,24,Egypt,Married,Middle,Working class,Q83,3,4,3,0.56,1.0549201679861442
+699,Dakahlia,Female,53,Egypt,Widowed,Middle,Working class,Q83,0,4,2,1.6,0.9502705392332347
+700,Dakahlia,Female,53,Egypt,Widowed,Middle,Working class,Q83,1,4,2,0.25,0.6931471805599453
+701,Dakahlia,Female,53,Egypt,Widowed,Middle,Working class,Q83,2,4,2,1.6875,1.0397207708399179
+702,Dakahlia,Female,53,Egypt,Widowed,Middle,Working class,Q83,3,4,2,0.6875,1.0397207708399179
+703,Dakahlia,Female,30,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+704,Dakahlia,Female,30,Egypt,Single,Middle,Lower middle class,Q83,1,4,5,4.0,0.6931471805599453
+705,Dakahlia,Female,30,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,1.8400000000000003,0.9502705392332347
+706,Dakahlia,Female,30,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+707,Dakahlia,Male,53,Egypt,Married,Higher,Upper middle class,Q83,0,4,1,0.64,0.9502705392332347
+708,Dakahlia,Male,53,Egypt,Married,Higher,Upper middle class,Q83,1,4,1,0.0,0.0
+709,Dakahlia,Male,53,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.16,0.5004024235381879
+710,Dakahlia,Male,53,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,1.5,1.0397207708399179
+711,Dakahlia,Male,28,Egypt,Married,Middle,Working class,Q83,0,4,3,1.1875,1.0397207708399179
+712,Dakahlia,Male,28,Egypt,Married,Middle,Working class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+713,Dakahlia,Male,28,Egypt,Married,Middle,Working class,Q83,2,4,2,1.36,1.3321790402101223
+714,Dakahlia,Male,28,Egypt,Married,Middle,Working class,Q83,3,4,2,0.24,0.6730116670092565
+715,Dakahlia,Female,38,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.16,0.5004024235381879
+716,Dakahlia,Female,38,Egypt,Married,Middle,Upper middle class,Q83,1,4,3,1.5555555555555554,1.0986122886681096
+717,Dakahlia,Female,38,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,1.8400000000000003,1.0549201679861442
+718,Dakahlia,Female,38,Egypt,Married,Middle,Upper middle class,Q83,3,4,5,2.6399999999999997,1.3321790402101223
+719,Gharbia,Male,27,Egypt,Single,Higher,Upper middle class,Q83,0,4,3,1.7600000000000002,1.3321790402101223
+720,Gharbia,Male,27,Egypt,Single,Higher,Upper middle class,Q83,1,4,3,1.0,0.6931471805599453
+721,Gharbia,Male,27,Egypt,Single,Higher,Upper middle class,Q83,2,4,2,0.0,0.0
+722,Gharbia,Male,27,Egypt,Single,Higher,Upper middle class,Q83,3,4,2,0.4,0.9502705392332347
+723,Gharbia,Female,35,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.16,0.5004024235381879
+724,Gharbia,Female,35,Egypt,Married,Higher,Upper middle class,Q83,1,4,3,1.0,0.6931471805599453
+725,Gharbia,Female,35,Egypt,Married,Higher,Upper middle class,Q83,2,4,1,2.16,1.0549201679861442
+726,Gharbia,Female,35,Egypt,Married,Higher,Upper middle class,Q83,3,4,5,1.84,1.0549201679861442
+727,Gharbia,Female,37,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.4,0.9502705392332347
+728,Gharbia,Female,37,Egypt,Married,Higher,Upper middle class,Q83,1,4,5,1.5555555555555554,1.0986122886681096
+729,Gharbia,Female,37,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,2.16,1.3321790402101223
+730,Gharbia,Female,37,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.0,0.0
+731,Gharbia,Male,43,Egypt,Married,Middle,Lower middle class,Q83,0,4,4,0.96,0.6730116670092565
+732,Gharbia,Male,43,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,1.0,0.6931471805599453
+733,Gharbia,Male,43,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,1.6875,0.5623351446188083
+734,Gharbia,Male,43,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,2.16,0.6730116670092565
+735,Gharbia,Male,28,Egypt,Single,Higher,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+736,Gharbia,Male,28,Egypt,Single,Higher,Lower middle class,Q83,1,4,5,0.8888888888888888,0.6365141682948128
+737,Gharbia,Male,28,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+738,Gharbia,Male,28,Egypt,Single,Higher,Lower middle class,Q83,3,4,5,1.8400000000000003,1.0549201679861442
+739,Gharbia,Male,39,Egypt,Married,Middle,Lower middle class,Q83,0,4,3,0.5,1.0397207708399179
+740,Gharbia,Male,39,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,1.8400000000000003,1.0549201679861442
+741,Gharbia,Male,39,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+742,Gharbia,Male,39,Egypt,Married,Middle,Lower middle class,Q83,3,4,3,0.4,0.9502705392332347
+743,Gharbia,Male,30,Egypt,Married,Middle,Lower middle class,Q83,0,4,3,0.4,0.9502705392332347
+744,Gharbia,Male,30,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,1.6875,0.5623351446188083
+745,Gharbia,Male,30,Egypt,Married,Middle,Lower middle class,Q83,2,4,3,1.04,1.3321790402101223
+746,Gharbia,Male,30,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.64,0.5004024235381879
+747,Gharbia,Male,43,Egypt,Married,Lower,Lower middle class,Q83,0,4,4,0.56,1.0549201679861442
+748,Gharbia,Male,43,Egypt,Married,Lower,Lower middle class,Q83,1,4,5,0.0,0.0
+749,Gharbia,Male,43,Egypt,Married,Lower,Lower middle class,Q83,2,4,2,2.16,1.0549201679861442
+750,Gharbia,Male,43,Egypt,Married,Lower,Lower middle class,Q83,3,4,2,1.44,1.0549201679861442
+751,Gharbia,Male,36,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.96,0.9502705392332347
+752,Gharbia,Male,36,Egypt,Married,Higher,Lower middle class,Q83,1,4,3,0.2222222222222222,0.6365141682948128
+753,Gharbia,Male,36,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.96,0.9502705392332347
+754,Gharbia,Male,36,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.16,0.5004024235381879
+755,Gharbia,Male,25,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,1.04,1.3321790402101223
+756,Gharbia,Male,25,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+757,Gharbia,Male,25,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+758,Gharbia,Male,25,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.6875,1.0397207708399179
+759,Gharbia,Male,31,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.16,0.5004024235381879
+760,Gharbia,Male,31,Egypt,Married,Middle,Upper middle class,Q83,1,4,4,0.0,0.0
+761,Gharbia,Male,31,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.1875,0.5623351446188083
+762,Gharbia,Male,31,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.64,0.9502705392332347
+763,Gharbia,Male,33,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.04,1.3321790402101223
+764,Gharbia,Male,33,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,2.25,0.6931471805599453
+765,Gharbia,Male,33,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+766,Gharbia,Male,33,Egypt,Married,Higher,Lower middle class,Q83,3,4,3,0.56,1.0549201679861442
+767,Gharbia,Male,26,Egypt,Single,Higher,Upper middle class,Q83,0,4,2,1.04,1.3321790402101223
+768,Gharbia,Male,26,Egypt,Single,Higher,Upper middle class,Q83,1,4,5,4.0,0.6931471805599453
+769,Gharbia,Male,26,Egypt,Single,Higher,Upper middle class,Q83,2,4,2,0.0,0.0
+770,Gharbia,Male,26,Egypt,Single,Higher,Upper middle class,Q83,3,4,1,1.2000000000000002,1.0549201679861442
+771,Gharbia,Female,45,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,1.5,1.0397207708399179
+772,Gharbia,Female,45,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,4.0,0.6931471805599453
+773,Gharbia,Female,45,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.2222222222222222,0.6365141682948128
+774,Gharbia,Female,45,Egypt,Married,Middle,Lower middle class,Q83,3,4,3,2.0,1.6094379124341005
+775,Gharbia,Female,55,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.56,1.0549201679861442
+776,Gharbia,Female,55,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.0,0.0
+777,Gharbia,Female,55,Egypt,Married,Middle,Upper middle class,Q83,2,4,5,2.8000000000000003,1.0549201679861442
+778,Gharbia,Female,55,Egypt,Married,Middle,Upper middle class,Q83,3,4,3,0.56,1.0549201679861442
+779,Gharbia,Female,27,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,1.5,1.0397207708399179
+780,Gharbia,Female,27,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.25,0.6931471805599453
+781,Gharbia,Female,27,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,1.8400000000000003,0.9502705392332347
+782,Gharbia,Female,27,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+783,Gharbia,Female,42,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,2.8000000000000003,1.0549201679861442
+784,Gharbia,Female,42,Egypt,Married,Higher,Upper middle class,Q83,1,4,5,1.5555555555555554,1.0986122886681096
+785,Gharbia,Female,42,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,1.6,0.9502705392332347
+786,Gharbia,Female,42,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,2.16,1.0549201679861442
+787,Gharbia,Female,32,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,1.2000000000000002,1.0549201679861442
+788,Gharbia,Female,32,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.0,0.0
+789,Gharbia,Female,32,Egypt,Married,Middle,Upper middle class,Q83,2,4,1,0.56,1.0549201679861442
+790,Gharbia,Female,32,Egypt,Married,Middle,Upper middle class,Q83,3,4,3,0.24000000000000002,0.6730116670092565
+791,Gharbia,Male,27,Egypt,Married,Higher,Upper middle class,Q83,0,4,3,0.64,0.5004024235381879
+792,Gharbia,Male,27,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.0,0.0
+793,Gharbia,Male,27,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,1.8400000000000003,0.9502705392332347
+794,Gharbia,Male,27,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.4,0.9502705392332347
+795,Gharbia,Female,27,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+796,Gharbia,Female,27,Egypt,Married,Higher,Lower middle class,Q83,1,4,1,4.0,0.6931471805599453
+797,Gharbia,Female,27,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+798,Gharbia,Female,27,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.96,0.6730116670092565
+799,Gharbia,Female,37,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.16000000000000003,0.5004024235381879
+800,Gharbia,Female,37,Egypt,Married,Middle,Upper middle class,Q83,1,4,3,0.2222222222222222,0.6365141682948128
+801,Gharbia,Female,37,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.4,0.9502705392332347
+802,Gharbia,Female,37,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.16,0.5004024235381879
+803,Gharbia,Male,28,Egypt,Married,Higher,Working class,Q83,0,4,3,0.4,0.9502705392332347
+804,Gharbia,Male,28,Egypt,Married,Higher,Working class,Q83,1,4,5,1.9999999999999998,0.6365141682948128
+805,Gharbia,Male,28,Egypt,Married,Higher,Working class,Q83,2,4,2,0.16,0.5004024235381879
+806,Gharbia,Male,28,Egypt,Married,Higher,Working class,Q83,3,4,3,0.25,0.6931471805599453
+807,Gharbia,Female,50,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.2222222222222222,0.6365141682948128
+808,Gharbia,Female,50,Egypt,Married,Middle,Upper middle class,Q83,1,4,5,2.25,0.6931471805599453
+809,Gharbia,Female,50,Egypt,Married,Middle,Upper middle class,Q83,2,4,4,1.5555555555555554,1.0986122886681096
+810,Gharbia,Female,50,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,1.36,1.3321790402101223
+811,Gharbia,Male,39,Egypt,Single,Higher,Working class,Q83,0,4,3,1.7600000000000002,1.3321790402101223
+812,Gharbia,Male,39,Egypt,Single,Higher,Working class,Q83,1,4,4,0.25,0.6931471805599453
+813,Gharbia,Male,39,Egypt,Single,Higher,Working class,Q83,2,4,2,1.6875,0.5623351446188083
+814,Gharbia,Male,39,Egypt,Single,Higher,Working class,Q83,3,4,2,0.8,1.0549201679861442
+815,Gharbia,Female,45,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.56,1.0549201679861442
+816,Gharbia,Female,45,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+817,Gharbia,Female,45,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.1875,0.5623351446188083
+818,Gharbia,Female,45,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,1.6,0.9502705392332347
+819,Sharkia,Male,35,Egypt,Married,Higher,Upper middle class,Q83,0,4,3,0.56,1.0549201679861442
+820,Sharkia,Male,35,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.25,0.6931471805599453
+821,Sharkia,Male,35,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.0,0.0
+822,Sharkia,Male,35,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,1.36,1.3321790402101223
+823,Sharkia,Female,55,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.64,0.5004024235381879
+824,Sharkia,Female,55,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.64,0.5004024235381879
+825,Sharkia,Female,55,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+826,Sharkia,Female,27,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.6875,1.0397207708399179
+827,Sharkia,Female,27,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,2.25,0.6931471805599453
+828,Sharkia,Female,27,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+829,Sharkia,Female,27,Egypt,Married,Middle,Lower middle class,Q83,3,4,4,1.25,1.3862943611198906
+830,Sharkia,Female,52,Egypt,Married,Middle,Lower middle class,Q83,0,4,1,1.2000000000000002,1.0549201679861442
+831,Sharkia,Female,52,Egypt,Married,Middle,Lower middle class,Q83,1,4,4,0.6875,1.0397207708399179
+832,Sharkia,Female,52,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+833,Sharkia,Female,52,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.16,0.5004024235381879
+834,Sharkia,Male,36,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+835,Sharkia,Male,36,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,0.0,0.0
+836,Sharkia,Male,36,Egypt,Married,Middle,Lower middle class,Q83,2,4,3,0.2222222222222222,0.6365141682948128
+837,Sharkia,Male,36,Egypt,Married,Middle,Lower middle class,Q83,3,4,3,1.04,1.3321790402101223
+838,Sharkia,Female,20,Egypt,Single,Middle,Working class,Q83,0,4,3,0.9600000000000001,0.9502705392332347
+839,Sharkia,Female,20,Egypt,Single,Middle,Working class,Q83,1,4,5,0.0,0.0
+840,Sharkia,Female,20,Egypt,Single,Middle,Working class,Q83,2,4,2,0.0,0.0
+841,Sharkia,Female,20,Egypt,Single,Middle,Working class,Q83,3,4,2,0.24000000000000002,0.6730116670092565
+842,Sharkia,Male,60,Egypt,Married,Middle,Working class,Q83,0,4,2,0.64,0.9502705392332347
+843,Sharkia,Male,60,Egypt,Married,Middle,Working class,Q83,1,4,3,1.0,0.6931471805599453
+844,Sharkia,Male,60,Egypt,Married,Middle,Working class,Q83,2,4,2,0.64,0.5004024235381879
+845,Sharkia,Male,60,Egypt,Married,Middle,Working class,Q83,3,4,2,0.64,0.5004024235381879
+846,Sharkia,Male,41,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.64,0.5004024235381879
+847,Sharkia,Male,41,Egypt,Married,Higher,Upper middle class,Q83,1,4,5,2.25,0.6931471805599453
+848,Sharkia,Male,41,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.4,0.9502705392332347
+849,Sharkia,Male,41,Egypt,Married,Higher,Upper middle class,Q83,3,4,4,0.96,0.9502705392332347
+850,Sharkia,Female,23,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+851,Sharkia,Female,23,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,0.2222222222222222,0.6365141682948128
+852,Sharkia,Female,23,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.24,0.6730116670092565
+853,Sharkia,Female,23,Egypt,Married,Middle,Lower middle class,Q83,3,4,4,2.0,1.6094379124341005
+854,Sharkia,Male,49,Egypt,Married,Higher,Upper middle class,Q83,0,4,1,1.5,1.0397207708399179
+855,Sharkia,Male,49,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.0,0.0
+856,Sharkia,Male,49,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.0,0.0
+857,Sharkia,Male,49,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.24000000000000002,0.6730116670092565
+858,Sharkia,Female,30,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.16,0.5004024235381879
+859,Sharkia,Female,30,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.25,0.6931471805599453
+860,Sharkia,Female,30,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.5,1.0397207708399179
+861,Sharkia,Female,30,Egypt,Married,Middle,Upper middle class,Q83,3,4,5,2.56,1.3321790402101223
+862,Sharkia,Male,39,Egypt,Married,Higher,Upper middle class,Q83,0,4,3,1.04,1.3321790402101223
+863,Sharkia,Male,39,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.5,1.0397207708399179
+864,Sharkia,Male,39,Egypt,Married,Higher,Upper middle class,Q83,2,4,1,0.25,0.6931471805599453
+865,Sharkia,Male,39,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,2.16,0.6730116670092565
+866,Sharkia,Female,26,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,2.16,1.0549201679861442
+867,Sharkia,Female,26,Egypt,Married,Middle,Lower middle class,Q83,1,4,4,0.25,0.6931471805599453
+868,Sharkia,Female,26,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+869,Sharkia,Female,26,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+870,Sharkia,Female,48,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.6875,1.0397207708399179
+871,Sharkia,Female,48,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+872,Sharkia,Female,48,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,1.2000000000000002,1.0549201679861442
+873,Sharkia,Female,48,Egypt,Married,Middle,Lower middle class,Q83,3,4,4,0.16,0.5004024235381879
+874,Sharkia,Male,34,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.4,0.9502705392332347
+875,Sharkia,Male,34,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.24,0.6730116670092565
+876,Sharkia,Male,34,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.4,0.9502705392332347
+877,Sharkia,Male,34,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+878,Sharkia,Female,39,Egypt,Divorced,Middle,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+879,Sharkia,Female,39,Egypt,Divorced,Middle,Lower middle class,Q83,1,4,2,2.25,0.6931471805599453
+880,Sharkia,Female,39,Egypt,Divorced,Middle,Lower middle class,Q83,2,4,1,2.25,0.6931471805599453
+881,Sharkia,Female,39,Egypt,Divorced,Middle,Lower middle class,Q83,3,4,5,1.6875,0.5623351446188083
+882,Sharkia,Male,39,Egypt,Married,Middle,Upper middle class,Q83,0,4,3,1.76,1.3321790402101223
+883,Sharkia,Male,39,Egypt,Married,Middle,Upper middle class,Q83,1,4,4,1.0,0.6931471805599453
+884,Sharkia,Male,39,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,2.16,1.3321790402101223
+885,Sharkia,Male,39,Egypt,Married,Middle,Upper middle class,Q83,3,4,3,1.04,1.3321790402101223
+886,Qaliubiya,Male,62,Egypt,Married,Middle,Working class,Q83,0,4,3,0.16,0.5004024235381879
+887,Qaliubiya,Male,62,Egypt,Married,Middle,Working class,Q83,1,4,5,0.0,0.0
+888,Qaliubiya,Male,62,Egypt,Married,Middle,Working class,Q83,2,4,1,1.25,1.3862943611198906
+889,Qaliubiya,Male,62,Egypt,Married,Middle,Working class,Q83,3,4,5,1.2000000000000002,1.0549201679861442
+890,Qaliubiya,Male,33,Egypt,Married,Middle,Working class,Q83,0,4,3,0.64,0.9502705392332347
+891,Qaliubiya,Male,33,Egypt,Married,Middle,Working class,Q83,1,4,5,2.888888888888889,1.0986122886681096
+892,Qaliubiya,Male,33,Egypt,Married,Middle,Working class,Q83,2,4,2,0.64,0.9502705392332347
+893,Qaliubiya,Male,33,Egypt,Married,Middle,Working class,Q83,3,4,2,2.16,1.0549201679861442
+894,Qaliubiya,Male,62,Egypt,Married,Higher,Lower middle class,Q83,0,4,5,2.5,1.3862943611198906
+895,Qaliubiya,Male,62,Egypt,Married,Higher,Lower middle class,Q83,1,4,3,0.0,0.0
+896,Qaliubiya,Male,62,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.64,0.9502705392332347
+897,Qaliubiya,Male,62,Egypt,Married,Higher,Lower middle class,Q83,3,4,3,0.24000000000000002,0.6730116670092565
+898,Qaliubiya,Male,29,Egypt,Married,Middle,Working class,Q83,0,4,4,1.36,1.3321790402101223
+899,Qaliubiya,Male,29,Egypt,Married,Middle,Working class,Q83,1,4,3,1.0,0.6931471805599453
+900,Qaliubiya,Male,29,Egypt,Married,Middle,Working class,Q83,2,4,2,0.5,1.0397207708399179
+901,Qaliubiya,Male,29,Egypt,Married,Middle,Working class,Q83,3,4,2,1.36,1.3321790402101223
+902,Qaliubiya,Female,42,Egypt,Married,Higher,Working class,Q83,0,4,2,0.5,1.0397207708399179
+903,Qaliubiya,Female,42,Egypt,Married,Higher,Working class,Q83,2,4,2,0.4,0.9502705392332347
+904,Qaliubiya,Female,42,Egypt,Married,Higher,Working class,Q83,3,4,2,0.1875,0.5623351446188083
+905,Qaliubiya,Female,50,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.16,0.5004024235381879
+906,Qaliubiya,Female,50,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.6666666666666666,1.0986122886681096
+907,Qaliubiya,Female,50,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,1.5,1.0397207708399179
+908,Qaliubiya,Female,50,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+909,Qaliubiya,Male,29,Egypt,Married,Higher,Lower middle class,Q83,0,4,3,0.24000000000000002,0.6730116670092565
+910,Qaliubiya,Male,29,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,2.25,1.0397207708399179
+911,Qaliubiya,Male,29,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.64,0.5004024235381879
+912,Qaliubiya,Male,29,Egypt,Married,Higher,Lower middle class,Q83,3,4,3,0.96,0.6730116670092565
+913,Qaliubiya,Male,35,Egypt,Married,Higher,Working class,Q83,0,4,3,0.56,1.0549201679861442
+914,Qaliubiya,Male,35,Egypt,Married,Higher,Working class,Q83,1,4,5,0.0,0.0
+915,Qaliubiya,Male,35,Egypt,Married,Higher,Working class,Q83,2,4,2,0.0,0.0
+916,Qaliubiya,Male,35,Egypt,Married,Higher,Working class,Q83,3,4,4,0.56,1.0549201679861442
+917,Qaliubiya,Female,40,Egypt,Married,Middle,Working class,Q83,0,4,2,0.16,0.5004024235381879
+918,Qaliubiya,Female,40,Egypt,Married,Middle,Working class,Q83,1,4,1,0.8888888888888888,0.6365141682948128
+919,Qaliubiya,Female,40,Egypt,Married,Middle,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+920,Qaliubiya,Female,40,Egypt,Married,Middle,Working class,Q83,3,4,4,1.36,1.3321790402101223
+921,Qaliubiya,Female,48,Egypt,Divorced,Lower,Working class,Q83,0,4,3,1.1875,1.0397207708399179
+922,Qaliubiya,Female,48,Egypt,Divorced,Lower,Working class,Q83,1,4,5,0.0,0.0
+923,Qaliubiya,Female,48,Egypt,Divorced,Lower,Working class,Q83,2,4,4,0.0,0.0
+924,Qaliubiya,Female,48,Egypt,Divorced,Lower,Working class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+925,Qaliubiya,Male,46,Egypt,Married,Middle,Working class,Q83,0,4,2,1.2000000000000002,1.0549201679861442
+926,Qaliubiya,Male,46,Egypt,Married,Middle,Working class,Q83,1,4,2,0.0,0.0
+927,Qaliubiya,Male,46,Egypt,Married,Middle,Working class,Q83,2,4,2,0.4,0.9502705392332347
+928,Qaliubiya,Male,46,Egypt,Married,Middle,Working class,Q83,3,4,2,1.44,1.0549201679861442
+929,Qaliubiya,Male,47,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.4,0.9502705392332347
+930,Qaliubiya,Male,47,Egypt,Married,Higher,Lower middle class,Q83,1,4,5,0.0,0.0
+931,Qaliubiya,Male,47,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,1.1875,1.0397207708399179
+932,Qaliubiya,Male,47,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.24,0.6730116670092565
+933,Qaliubiya,Female,38,Egypt,Married,Higher,Working class,Q83,0,4,2,0.16,0.5004024235381879
+934,Qaliubiya,Female,38,Egypt,Married,Higher,Working class,Q83,1,4,5,4.0,0.6931471805599453
+935,Qaliubiya,Female,38,Egypt,Married,Higher,Working class,Q83,2,4,2,0.8,1.0549201679861442
+936,Qaliubiya,Female,38,Egypt,Married,Higher,Working class,Q83,3,4,2,0.16,0.5004024235381879
+937,Qaliubiya,Male,58,Egypt,Married,Middle,Working class,Q83,0,4,3,1.04,1.3321790402101223
+938,Qaliubiya,Male,58,Egypt,Married,Middle,Working class,Q83,1,4,5,2.25,0.6931471805599453
+939,Qaliubiya,Male,58,Egypt,Married,Middle,Working class,Q83,2,4,2,0.0,0.0
+940,Qaliubiya,Male,58,Egypt,Married,Middle,Working class,Q83,3,4,3,0.56,1.0549201679861442
+941,Qaliubiya,Female,27,Egypt,Married,Higher,Working class,Q83,0,4,2,0.8,1.0549201679861442
+942,Qaliubiya,Female,27,Egypt,Married,Higher,Working class,Q83,1,4,1,0.0,0.0
+943,Qaliubiya,Female,27,Egypt,Married,Higher,Working class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+944,Qaliubiya,Female,27,Egypt,Married,Higher,Working class,Q83,3,4,2,0.25,0.6931471805599453
+945,Qaliubiya,Female,48,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.0,0.0
+946,Qaliubiya,Female,48,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,1.44,0.5004024235381879
+947,Qaliubiya,Female,48,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,1.6875,1.0397207708399179
+948,Giza,Female,19,Egypt,Single,Middle,Working class,Q83,0,4,3,1.25,1.3862943611198906
+949,Giza,Female,19,Egypt,Single,Middle,Working class,Q83,1,4,2,1.0,0.6931471805599453
+950,Giza,Female,19,Egypt,Single,Middle,Working class,Q83,2,4,2,0.75,0.5623351446188083
+951,Giza,Female,19,Egypt,Single,Middle,Working class,Q83,3,4,3,1.1875,1.0397207708399179
+952,Giza,Female,38,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.4,0.9502705392332347
+953,Giza,Female,38,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.25,0.6931471805599453
+954,Giza,Female,38,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,1.3599999999999999,0.9502705392332347
+955,Giza,Female,38,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.8400000000000003,0.9502705392332347
+956,Beni Swaif/Beni Suef,Female,34,Egypt,Divorced,Higher,Lower class,Q83,0,4,3,0.5,1.0397207708399179
+957,Beni Swaif/Beni Suef,Female,34,Egypt,Divorced,Higher,Lower class,Q83,1,4,5,0.0,0.0
+958,Beni Swaif/Beni Suef,Female,34,Egypt,Divorced,Higher,Lower class,Q83,2,4,2,0.16,0.5004024235381879
+959,Beni Swaif/Beni Suef,Female,34,Egypt,Divorced,Higher,Lower class,Q83,3,4,3,0.56,1.0549201679861442
+960,Beni Swaif/Beni Suef,Male,20,Egypt,Single,Higher,Working class,Q83,0,4,2,0.4,0.9502705392332347
+961,Beni Swaif/Beni Suef,Male,20,Egypt,Single,Higher,Working class,Q83,1,4,3,0.0,0.0
+962,Beni Swaif/Beni Suef,Male,20,Egypt,Single,Higher,Working class,Q83,2,4,2,1.6875,1.0397207708399179
+963,Beni Swaif/Beni Suef,Male,20,Egypt,Single,Higher,Working class,Q83,3,4,2,0.0,0.0
+964,Giza,Male,19,Egypt,Single,Middle,Upper middle class,Q83,0,4,1,2.64,1.3321790402101223
+965,Giza,Male,19,Egypt,Single,Middle,Upper middle class,Q83,1,4,5,0.0,0.0
+966,Giza,Male,19,Egypt,Single,Middle,Upper middle class,Q83,2,4,2,0.4,0.9502705392332347
+967,Giza,Male,19,Egypt,Single,Middle,Upper middle class,Q83,3,4,1,1.2000000000000002,1.0549201679861442
+968,Giza,Female,33,Egypt,Married,Middle,Working class,Q83,0,4,2,2.16,1.3321790402101223
+969,Giza,Female,33,Egypt,Married,Middle,Working class,Q83,1,4,2,0.25,0.6931471805599453
+970,Giza,Female,33,Egypt,Married,Middle,Working class,Q83,2,4,3,0.1875,0.5623351446188083
+971,Giza,Female,33,Egypt,Married,Middle,Working class,Q83,3,4,2,1.36,1.3321790402101223
+972,Giza,Female,24,Egypt,Married,Higher,Working class,Q83,0,4,2,1.04,1.3321790402101223
+973,Giza,Female,24,Egypt,Married,Higher,Working class,Q83,1,4,2,0.0,0.0
+974,Giza,Female,24,Egypt,Married,Higher,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+975,Giza,Female,24,Egypt,Married,Higher,Working class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+976,Giza,Male,50,Egypt,Married,Higher,Working class,Q83,0,4,2,0.4,0.9502705392332347
+977,Giza,Male,50,Egypt,Married,Higher,Working class,Q83,1,4,1,0.25,0.6931471805599453
+978,Giza,Male,50,Egypt,Married,Higher,Working class,Q83,2,4,1,0.64,0.9502705392332347
+979,Giza,Male,50,Egypt,Married,Higher,Working class,Q83,3,4,5,0.64,0.5004024235381879
+980,Beni Swaif/Beni Suef,Female,26,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.0,0.6931471805599453
+981,Beni Swaif/Beni Suef,Female,26,Egypt,Married,Higher,Lower middle class,Q83,1,4,1,0.0,0.0
+982,Beni Swaif/Beni Suef,Female,26,Egypt,Married,Higher,Lower middle class,Q83,2,4,5,3.1875,1.0397207708399179
+983,Beni Swaif/Beni Suef,Female,26,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,1.6,0.9502705392332347
+984,Beni Swaif/Beni Suef,Male,40,Egypt,Single,Lower,Lower class,Q83,0,4,4,1.04,1.3321790402101223
+985,Beni Swaif/Beni Suef,Male,40,Egypt,Single,Lower,Lower class,Q83,1,4,1,0.0,0.0
+986,Beni Swaif/Beni Suef,Male,40,Egypt,Single,Lower,Lower class,Q83,2,4,4,0.8,1.0549201679861442
+987,Beni Swaif/Beni Suef,Male,40,Egypt,Single,Lower,Lower class,Q83,3,4,1,2.4,0.9502705392332347
+988,Beni Swaif/Beni Suef,Female,25,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.25,0.6931471805599453
+989,Beni Swaif/Beni Suef,Female,25,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,1.6,0.9502705392332347
+990,Beni Swaif/Beni Suef,Female,25,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.64,0.9502705392332347
+991,Beni Swaif/Beni Suef,Female,21,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,0.16,0.5004024235381879
+992,Beni Swaif/Beni Suef,Female,21,Egypt,Single,Middle,Lower middle class,Q83,1,4,1,0.0,0.0
+993,Beni Swaif/Beni Suef,Female,21,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.0,0.0
+994,Beni Swaif/Beni Suef,Female,21,Egypt,Single,Middle,Lower middle class,Q83,3,4,5,2.6399999999999997,1.3321790402101223
+995,Beni Swaif/Beni Suef,Male,48,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,1.04,1.3321790402101223
+996,Beni Swaif/Beni Suef,Male,48,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,2.16,1.0549201679861442
+997,Beni Swaif/Beni Suef,Male,48,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,1.8400000000000003,0.9502705392332347
+998,Beni Swaif/Beni Suef,Male,48,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.44,1.0549201679861442
+999,Beni Swaif/Beni Suef,Female,57,Egypt,Married,Middle,Working class,Q83,0,4,2,1.6875,1.0397207708399179
+1000,Beni Swaif/Beni Suef,Female,57,Egypt,Married,Middle,Working class,Q83,1,4,5,1.0,0.6931471805599453
+1001,Beni Swaif/Beni Suef,Female,57,Egypt,Married,Middle,Working class,Q83,2,4,2,1.6875,0.5623351446188083
+1002,Beni Swaif/Beni Suef,Female,57,Egypt,Married,Middle,Working class,Q83,3,4,2,1.04,1.3321790402101223
+1003,Beni Swaif/Beni Suef,Male,20,Egypt,Single,Middle,Working class,Q83,0,4,2,0.16,0.5004024235381879
+1004,Beni Swaif/Beni Suef,Male,20,Egypt,Single,Middle,Working class,Q83,1,4,2,1.0,0.6931471805599453
+1005,Beni Swaif/Beni Suef,Male,20,Egypt,Single,Middle,Working class,Q83,2,4,2,0.96,0.9502705392332347
+1006,Beni Swaif/Beni Suef,Male,20,Egypt,Single,Middle,Working class,Q83,3,4,3,0.56,1.0549201679861442
+1007,Giza,Female,59,Egypt,Married,Higher,Upper middle class,Q83,0,4,1,0.16,0.5004024235381879
+1008,Giza,Female,59,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,0.4,0.9502705392332347
+1009,Giza,Female,59,Egypt,Married,Higher,Upper middle class,Q83,3,4,3,0.4,0.9502705392332347
+1010,Giza,Female,38,Egypt,Single,Higher,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+1011,Giza,Female,38,Egypt,Single,Higher,Lower middle class,Q83,1,4,2,0.0,0.0
+1012,Giza,Female,38,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.64,0.5004024235381879
+1013,Giza,Female,38,Egypt,Single,Higher,Lower middle class,Q83,3,4,3,1.04,1.3321790402101223
+1014,Giza,Female,26,Egypt,Single,Higher,Working class,Q83,0,4,3,0.24000000000000002,0.6730116670092565
+1015,Giza,Female,26,Egypt,Single,Higher,Working class,Q83,1,4,5,0.0,0.0
+1016,Giza,Female,26,Egypt,Single,Higher,Working class,Q83,2,4,2,0.0,0.0
+1017,Giza,Female,26,Egypt,Single,Higher,Working class,Q83,3,4,4,1.84,1.0549201679861442
+1018,Giza,Male,39,Egypt,Married,Middle,Working class,Q83,0,4,3,1.44,1.0549201679861442
+1019,Giza,Male,39,Egypt,Married,Middle,Working class,Q83,1,4,4,2.25,0.6931471805599453
+1020,Giza,Male,39,Egypt,Married,Middle,Working class,Q83,2,4,2,1.5,1.0397207708399179
+1021,Giza,Male,39,Egypt,Married,Middle,Working class,Q83,3,4,2,1.36,1.3321790402101223
+1022,Giza,Male,36,Egypt,Married,Middle,Working class,Q83,0,4,3,0.64,0.9502705392332347
+1023,Giza,Male,36,Egypt,Married,Middle,Working class,Q83,1,4,2,0.0,0.0
+1024,Giza,Male,36,Egypt,Married,Middle,Working class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+1025,Giza,Male,36,Egypt,Married,Middle,Working class,Q83,3,4,4,0.64,0.9502705392332347
+1026,Giza,Female,30,Egypt,Single,Higher,Lower class,Q83,0,4,3,0.8888888888888888,0.6365141682948128
+1027,Giza,Female,30,Egypt,Single,Higher,Lower class,Q83,1,4,5,0.0,0.0
+1028,Giza,Female,30,Egypt,Single,Higher,Lower class,Q83,2,4,2,0.2222222222222222,0.6365141682948128
+1029,Giza,Female,30,Egypt,Single,Higher,Lower class,Q83,3,4,2,0.24000000000000002,0.6730116670092565
+1030,Giza,Female,24,Egypt,Single,Higher,Lower class,Q83,0,4,3,0.25,0.6931471805599453
+1031,Giza,Female,24,Egypt,Single,Higher,Lower class,Q83,1,4,3,0.0,0.0
+1032,Giza,Female,24,Egypt,Single,Higher,Lower class,Q83,2,4,2,0.1875,0.5623351446188083
+1033,Giza,Female,24,Egypt,Single,Higher,Lower class,Q83,3,4,2,0.64,0.5004024235381879
+1034,Giza,Male,65,Egypt,Married,Middle,Working class,Q83,0,4,4,1.36,1.3321790402101223
+1035,Giza,Male,65,Egypt,Married,Middle,Working class,Q83,1,4,1,2.25,0.6931471805599453
+1036,Giza,Male,65,Egypt,Married,Middle,Working class,Q83,2,4,2,1.44,0.5004024235381879
+1037,Giza,Male,65,Egypt,Married,Middle,Working class,Q83,3,4,2,1.4400000000000002,1.0549201679861442
+1038,Giza,Female,56,Egypt,Married,Middle,Working class,Q83,0,4,3,0.56,1.0549201679861442
+1039,Giza,Female,56,Egypt,Married,Middle,Working class,Q83,1,4,1,1.0,0.6931471805599453
+1040,Giza,Female,56,Egypt,Married,Middle,Working class,Q83,2,4,2,0.16,0.5004024235381879
+1041,Giza,Female,56,Egypt,Married,Middle,Working class,Q83,3,4,2,1.25,1.3862943611198906
+1042,Giza,Male,31,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.4,0.9502705392332347
+1043,Giza,Male,31,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+1044,Giza,Male,31,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.96,0.9502705392332347
+1045,Giza,Male,31,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.0,0.0
+1046,Giza,Male,28,Egypt,Single,Middle,Working class,Q83,0,4,2,1.04,1.3321790402101223
+1047,Giza,Male,28,Egypt,Single,Middle,Working class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+1048,Giza,Male,28,Egypt,Single,Middle,Working class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+1049,Giza,Male,28,Egypt,Single,Middle,Working class,Q83,3,4,1,1.36,1.3321790402101223
+1050,Giza,Male,47,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.64,0.9502705392332347
+1051,Giza,Male,47,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.0,0.0
+1052,Giza,Male,47,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.64,0.5004024235381879
+1053,Giza,Male,47,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.36,1.3321790402101223
+1054,Giza,Male,26,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,0.16,0.5004024235381879
+1055,Giza,Male,26,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,2.25,0.6931471805599453
+1056,Giza,Male,26,Egypt,Single,Middle,Lower middle class,Q83,2,4,5,0.64,0.9502705392332347
+1057,Giza,Male,26,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,1.04,1.3321790402101223
+1058,Giza,Male,48,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.96,0.9502705392332347
+1059,Giza,Male,48,Egypt,Married,Middle,Upper middle class,Q83,1,4,2,0.25,0.6931471805599453
+1060,Giza,Male,48,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+1061,Giza,Male,48,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+1062,Menya,Male,61,Egypt,Married,Middle,Working class,Q83,0,4,2,0.64,0.5004024235381879
+1063,Menya,Male,61,Egypt,Married,Middle,Working class,Q83,1,4,4,0.0,0.0
+1064,Menya,Male,61,Egypt,Married,Middle,Working class,Q83,2,4,2,1.6,0.9502705392332347
+1065,Menya,Male,61,Egypt,Married,Middle,Working class,Q83,3,4,2,1.04,1.3321790402101223
+1066,Menya,Male,41,Egypt,Married,Middle,Lower middle class,Q83,0,4,4,0.56,1.0549201679861442
+1067,Menya,Male,41,Egypt,Married,Middle,Lower middle class,Q83,1,4,4,0.0,0.0
+1068,Menya,Male,41,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.96,0.9502705392332347
+1069,Menya,Male,41,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.56,1.0549201679861442
+1070,Menya,Female,43,Egypt,Married,Higher,Working class,Q83,0,4,3,1.2000000000000002,1.0549201679861442
+1071,Menya,Female,43,Egypt,Married,Higher,Working class,Q83,1,4,2,0.0,0.0
+1072,Menya,Female,43,Egypt,Married,Higher,Working class,Q83,2,4,2,0.0,0.0
+1073,Menya,Female,43,Egypt,Married,Higher,Working class,Q83,3,4,2,1.36,1.3321790402101223
+1074,Menya,Male,57,Egypt,Married,Middle,Lower middle class,Q83,0,4,1,1.6875,1.0397207708399179
+1075,Menya,Male,57,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,0.8888888888888888,0.6365141682948128
+1076,Menya,Male,57,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.8888888888888888,0.6365141682948128
+1077,Menya,Male,57,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,1.3599999999999999,0.9502705392332347
+1078,Menya,Male,42,Egypt,Divorced,Middle,Lower middle class,Q83,0,4,2,0.1875,0.5623351446188083
+1079,Menya,Male,42,Egypt,Divorced,Middle,Lower middle class,Q83,1,4,1,0.0,0.0
+1080,Menya,Male,42,Egypt,Divorced,Middle,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+1081,Menya,Male,42,Egypt,Divorced,Middle,Lower middle class,Q83,3,4,2,0.16,0.5004024235381879
+1082,Menya,Female,59,Egypt,Married,Middle,Upper middle class,Q83,0,4,2,0.56,1.0549201679861442
+1083,Menya,Female,59,Egypt,Married,Middle,Upper middle class,Q83,1,4,1,0.2222222222222222,0.6365141682948128
+1084,Menya,Female,59,Egypt,Married,Middle,Upper middle class,Q83,2,4,2,2.16,1.3321790402101223
+1085,Menya,Female,59,Egypt,Married,Middle,Upper middle class,Q83,3,4,2,0.1875,0.5623351446188083
+1086,Menya,Female,31,Egypt,Married,Middle,Working class,Q83,0,4,2,0.4,0.9502705392332347
+1087,Menya,Female,31,Egypt,Married,Middle,Working class,Q83,1,4,2,0.8888888888888888,0.6365141682948128
+1088,Menya,Female,31,Egypt,Married,Middle,Working class,Q83,2,4,5,2.1875,1.3862943611198906
+1089,Menya,Female,31,Egypt,Married,Middle,Working class,Q83,3,4,4,1.4400000000000002,1.0549201679861442
+1090,Menya,Male,55,Egypt,Single,Middle,Working class,Q83,0,4,1,0.8,1.0549201679861442
+1091,Menya,Male,55,Egypt,Single,Middle,Working class,Q83,1,4,5,0.0,0.0
+1092,Menya,Male,55,Egypt,Single,Middle,Working class,Q83,2,4,2,1.8400000000000003,1.0549201679861442
+1093,Menya,Male,55,Egypt,Single,Middle,Working class,Q83,3,4,2,0.64,0.5004024235381879
+1094,Menya,Female,28,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.84,1.3321790402101223
+1095,Menya,Female,28,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.6666666666666666,1.0986122886681096
+1096,Menya,Female,28,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+1097,Menya,Female,28,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.16000000000000003,0.5004024235381879
+1098,Menya,Male,24,Egypt,Single,Middle,Working class,Q83,0,4,2,0.4,0.9502705392332347
+1099,Menya,Male,24,Egypt,Single,Middle,Working class,Q83,1,4,5,4.0,0.6931471805599453
+1100,Menya,Male,24,Egypt,Single,Middle,Working class,Q83,2,4,2,1.44,0.5004024235381879
+1101,Menya,Male,24,Egypt,Single,Middle,Working class,Q83,3,4,2,0.64,0.5004024235381879
+1102,Menya,Female,23,Egypt,Married,Middle,Working class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+1103,Menya,Female,23,Egypt,Married,Middle,Working class,Q83,1,4,1,0.0,0.0
+1104,Menya,Female,23,Egypt,Married,Middle,Working class,Q83,2,4,2,1.5555555555555554,1.0986122886681096
+1105,Menya,Female,23,Egypt,Married,Middle,Working class,Q83,3,4,5,2.16,0.6730116670092565
+1106,Menya,Male,27,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+1107,Menya,Male,27,Egypt,Single,Middle,Lower middle class,Q83,1,4,1,2.6666666666666665,1.0986122886681096
+1108,Menya,Male,27,Egypt,Single,Middle,Lower middle class,Q83,2,4,3,0.4,0.9502705392332347
+1109,Menya,Male,27,Egypt,Single,Middle,Lower middle class,Q83,3,4,2,0.16,0.5004024235381879
+1110,Asyut,Male,30,Egypt,Married,Middle,Working class,Q83,0,4,2,0.4,0.9502705392332347
+1111,Asyut,Male,30,Egypt,Married,Middle,Working class,Q83,1,4,2,0.25,0.6931471805599453
+1112,Asyut,Male,30,Egypt,Married,Middle,Working class,Q83,2,4,2,0.0,0.0
+1113,Asyut,Male,30,Egypt,Married,Middle,Working class,Q83,3,4,3,0.96,0.9502705392332347
+1114,Asyut,Female,26,Egypt,Married,Middle,Working class,Q83,0,4,3,1.2000000000000002,1.0549201679861442
+1115,Asyut,Female,26,Egypt,Married,Middle,Working class,Q83,1,4,2,0.25,0.6931471805599453
+1116,Asyut,Female,26,Egypt,Married,Middle,Working class,Q83,2,4,5,2.25,0.6931471805599453
+1117,Asyut,Female,26,Egypt,Married,Middle,Working class,Q83,3,4,2,0.96,0.6730116670092565
+1118,Asyut,Male,32,Egypt,Single,Higher,Lower middle class,Q83,0,4,2,0.56,1.0549201679861442
+1119,Asyut,Male,32,Egypt,Single,Higher,Lower middle class,Q83,1,4,2,1.5,1.0397207708399179
+1120,Asyut,Male,32,Egypt,Single,Higher,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+1121,Asyut,Male,32,Egypt,Single,Higher,Lower middle class,Q83,3,4,2,1.6,0.9502705392332347
+1122,Asyut,Female,21,Egypt,Married,Middle,Working class,Q83,0,4,2,0.16000000000000003,0.5004024235381879
+1123,Asyut,Female,21,Egypt,Married,Middle,Working class,Q83,2,4,2,0.24,0.6730116670092565
+1124,Asyut,Female,21,Egypt,Married,Middle,Working class,Q83,3,4,2,2.16,1.3321790402101223
+1125,Asyut,Female,30,Egypt,Married,Higher,Working class,Q83,0,4,2,1.3599999999999999,0.9502705392332347
+1126,Asyut,Female,30,Egypt,Married,Higher,Working class,Q83,1,4,2,0.0,0.0
+1127,Asyut,Female,30,Egypt,Married,Higher,Working class,Q83,2,4,2,0.1875,0.5623351446188083
+1128,Asyut,Female,30,Egypt,Married,Higher,Working class,Q83,3,4,2,1.36,1.3321790402101223
+1129,Asyut,Female,42,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,0.56,1.0549201679861442
+1130,Asyut,Female,42,Egypt,Married,Higher,Lower middle class,Q83,1,4,5,0.0,0.0
+1131,Asyut,Female,42,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,1.8400000000000003,0.9502705392332347
+1132,Asyut,Female,42,Egypt,Married,Higher,Lower middle class,Q83,3,4,4,0.56,1.0549201679861442
+1133,Sohag,Male,63,Egypt,Married,Middle,Lower middle class,Q83,0,4,1,0.6875,1.0397207708399179
+1134,Sohag,Male,63,Egypt,Married,Middle,Lower middle class,Q83,1,4,3,0.25,0.6931471805599453
+1135,Sohag,Male,63,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.25,0.6931471805599453
+1136,Sohag,Male,63,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,2.16,1.3321790402101223
+1137,Sohag,Male,27,Egypt,Married,Middle,Working class,Q83,0,4,3,0.8,1.0549201679861442
+1138,Sohag,Male,27,Egypt,Married,Middle,Working class,Q83,1,4,2,2.888888888888889,1.0986122886681096
+1139,Sohag,Male,27,Egypt,Married,Middle,Working class,Q83,2,4,2,0.0,0.0
+1140,Sohag,Male,27,Egypt,Married,Middle,Working class,Q83,3,4,3,1.04,1.3321790402101223
+1141,Sohag,Male,56,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.56,1.0549201679861442
+1142,Sohag,Male,56,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.0,0.0
+1143,Sohag,Male,56,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,1.5,1.0397207708399179
+1144,Sohag,Male,56,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.4,0.9502705392332347
+1145,Sohag,Male,51,Egypt,Married,Higher,Lower middle class,Q83,0,4,2,1.84,1.3321790402101223
+1146,Sohag,Male,51,Egypt,Married,Higher,Lower middle class,Q83,1,4,2,0.2222222222222222,0.6365141682948128
+1147,Sohag,Male,51,Egypt,Married,Higher,Lower middle class,Q83,2,4,2,0.0,0.0
+1148,Sohag,Male,51,Egypt,Married,Higher,Lower middle class,Q83,3,4,2,0.1875,0.5623351446188083
+1149,Sohag,Female,26,Egypt,Married,Higher,Working class,Q83,0,4,2,0.4,0.9502705392332347
+1150,Sohag,Female,26,Egypt,Married,Higher,Working class,Q83,1,4,1,2.6875,1.0397207708399179
+1151,Sohag,Female,26,Egypt,Married,Higher,Working class,Q83,2,4,3,0.56,1.0549201679861442
+1152,Sohag,Female,26,Egypt,Married,Higher,Working class,Q83,3,4,2,0.25,0.6931471805599453
+1153,Sohag,Female,29,Egypt,Married,Higher,Upper middle class,Q83,0,4,2,0.75,0.5623351446188083
+1154,Sohag,Female,29,Egypt,Married,Higher,Upper middle class,Q83,1,4,2,0.0,0.0
+1155,Sohag,Female,29,Egypt,Married,Higher,Upper middle class,Q83,2,4,2,1.8400000000000003,0.9502705392332347
+1156,Sohag,Female,29,Egypt,Married,Higher,Upper middle class,Q83,3,4,2,0.2222222222222222,0.6365141682948128
+1157,Sohag,Male,51,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+1158,Sohag,Male,51,Egypt,Married,Middle,Lower middle class,Q83,1,4,5,2.25,0.6931471805599453
+1159,Sohag,Male,51,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.4,0.9502705392332347
+1160,Sohag,Male,51,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,0.64,0.5004024235381879
+1161,Qena,Male,32,Egypt,Single,Middle,Working class,Q83,0,4,2,0.4,0.9502705392332347
+1162,Qena,Male,32,Egypt,Single,Middle,Working class,Q83,1,4,5,2.25,0.6931471805599453
+1163,Qena,Male,32,Egypt,Single,Middle,Working class,Q83,2,4,2,1.8400000000000003,0.9502705392332347
+1164,Qena,Male,32,Egypt,Single,Middle,Working class,Q83,3,4,3,0.4,0.9502705392332347
+1165,Qena,Male,54,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.56,1.0549201679861442
+1166,Qena,Male,54,Egypt,Married,Middle,Lower middle class,Q83,1,4,2,1.5555555555555554,1.0986122886681096
+1167,Qena,Male,54,Egypt,Married,Middle,Lower middle class,Q83,2,4,1,3.5555555555555554,0.6365141682948128
+1168,Qena,Male,54,Egypt,Married,Middle,Lower middle class,Q83,3,4,3,0.1875,0.5623351446188083
+1169,Qena,Male,25,Egypt,Single,Lower,Lower class,Q83,0,4,4,1.6875,0.5623351446188083
+1170,Qena,Male,25,Egypt,Single,Lower,Lower class,Q83,2,4,2,2.25,1.0397207708399179
+1171,Qena,Male,25,Egypt,Single,Lower,Lower class,Q83,3,4,4,0.8,1.0549201679861442
+1172,Aswan,Male,34,Egypt,Single,Middle,Lower class,Q83,0,4,2,1.04,1.3321790402101223
+1173,Aswan,Male,34,Egypt,Single,Middle,Lower class,Q83,1,4,2,0.25,0.6931471805599453
+1174,Aswan,Male,34,Egypt,Single,Middle,Lower class,Q83,2,4,2,0.16,0.5004024235381879
+1175,Aswan,Male,34,Egypt,Single,Middle,Lower class,Q83,3,4,3,0.56,1.0549201679861442
+1176,Aswan,Female,31,Egypt,Married,Middle,Lower middle class,Q83,0,4,2,0.24000000000000002,0.6730116670092565
+1177,Aswan,Female,31,Egypt,Married,Middle,Lower middle class,Q83,1,4,4,0.25,0.6931471805599453
+1178,Aswan,Female,31,Egypt,Married,Middle,Lower middle class,Q83,2,4,2,0.8888888888888888,0.6365141682948128
+1179,Aswan,Female,31,Egypt,Married,Middle,Lower middle class,Q83,3,4,2,2.16,0.6730116670092565
+1180,Aswan,Female,39,Egypt,Married,Middle,Working class,Q83,0,4,4,0.64,0.9502705392332347
+1181,Aswan,Female,39,Egypt,Married,Middle,Working class,Q83,1,4,3,1.0,0.6931471805599453
+1182,Aswan,Female,39,Egypt,Married,Middle,Working class,Q83,2,4,1,4.0,0.6931471805599453
+1183,Aswan,Female,39,Egypt,Married,Middle,Working class,Q83,3,4,2,0.16,0.5004024235381879
+1184,Qena,Female,27,Egypt,Married,Lower,Lower middle class,Q83,0,4,4,1.36,1.3321790402101223
+1185,Qena,Female,27,Egypt,Married,Lower,Lower middle class,Q83,1,4,1,0.0,0.0
+1186,Qena,Female,27,Egypt,Married,Lower,Lower middle class,Q83,2,4,2,0.16000000000000003,0.5004024235381879
+1187,Qena,Female,27,Egypt,Married,Lower,Lower middle class,Q83,3,4,5,2.56,1.3321790402101223
+1188,Qena,Male,40,Egypt,Single,Middle,Lower middle class,Q83,0,4,2,0.16,0.5004024235381879
+1189,Qena,Male,40,Egypt,Single,Middle,Lower middle class,Q83,1,4,2,1.5555555555555554,1.0986122886681096
+1190,Qena,Male,40,Egypt,Single,Middle,Lower middle class,Q83,2,4,2,0.1875,0.5623351446188083
+1191,Qena,Male,40,Egypt,Single,Middle,Lower middle class,Q83,3,4,3,0.56,1.0549201679861442
+1192,Qena,Male,30,Egypt,Single,Middle,Working class,Q83,0,4,4,0.56,1.0549201679861442
+1193,Qena,Male,30,Egypt,Single,Middle,Working class,Q83,1,4,1,2.25,0.6931471805599453
+1194,Qena,Male,30,Egypt,Single,Middle,Working class,Q83,2,4,4,1.6875,1.0397207708399179
+1195,Qena,Male,30,Egypt,Single,Middle,Working class,Q83,3,4,3,0.64,0.9502705392332347
