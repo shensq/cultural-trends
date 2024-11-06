@@ -27,9 +27,9 @@
 25,New Jersey,Female,45,United States,Married,Higher,Lower middle class,Q142,1,4,3,0.25,0.6931471805599453
 26,New Jersey,Female,45,United States,Married,Higher,Lower middle class,Q142,2,4,3,0.24,0.6730116670092565
 27,New Jersey,Female,45,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
-28,North Carolina,Male,42,United States,Married,Middle,Lower middle class,Q142,0,4,4,0.56,1.0549201679861442
+28,North Carolina,Male,42,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
 29,North Carolina,Male,42,United States,Married,Middle,Lower middle class,Q142,1,4,4,1.5,1.0397207708399179
-30,North Carolina,Male,42,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.56,1.0549201679861442
+30,North Carolina,Male,42,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.56,1.0549201679861442
 31,North Carolina,Male,42,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.24000000000000002,0.6730116670092565
 32,California,Male,28,United States,Single,Middle,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
 33,California,Male,28,United States,Single,Middle,Lower middle class,Q142,1,4,4,1.36,1.3321790402101223
@@ -51,7 +51,7 @@
 49,Florida,Male,40,United States,Married,Middle,Working class,Q142,1,4,2,0.1875,0.5623351446188083
 50,Florida,Male,40,United States,Married,Middle,Working class,Q142,2,4,4,0.64,0.9502705392332347
 51,Florida,Male,40,United States,Married,Middle,Working class,Q142,3,4,3,0.4,0.9502705392332347
-52,California,Male,32,United States,Married,Middle,Lower middle class,Q142,0,4,2,1.25,1.3862943611198906
+52,California,Male,32,United States,Married,Middle,Lower middle class,Q142,0,4,1,1.25,1.3862943611198906
 53,California,Male,32,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.1875,0.5623351446188083
 54,California,Male,32,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.16,0.5004024235381879
 55,California,Male,32,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
@@ -60,8 +60,8 @@
 58,Idaho,Male,31,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 59,Idaho,Male,31,United States,Married,Middle,Lower middle class,Q142,3,4,2,0.56,1.0549201679861442
 60,Utah,Female,32,United States,Married,Middle,Lower middle class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
-61,Utah,Female,32,United States,Married,Middle,Lower middle class,Q142,1,4,2,0.8,1.0549201679861442
-62,Utah,Female,32,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.25,0.6931471805599453
+61,Utah,Female,32,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.8,1.0549201679861442
+62,Utah,Female,32,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.25,0.6931471805599453
 63,Utah,Female,32,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 64,North Carolina,Male,53,United States,Married,Middle,Lower middle class,Q142,0,4,4,0.24,0.6730116670092565
 65,North Carolina,Male,53,United States,Married,Middle,Lower middle class,Q142,1,4,2,0.8,1.0549201679861442
@@ -72,7 +72,7 @@
 70,North Carolina,Male,38,United States,Married,Higher,Working class,Q142,2,4,4,0.64,0.9502705392332347
 71,North Carolina,Male,38,United States,Married,Higher,Working class,Q142,3,4,3,1.1875,1.0397207708399179
 72,Tennessee,Female,35,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.64,0.9502705392332347
-73,Tennessee,Female,35,United States,Married,Middle,Lower middle class,Q142,1,4,2,0.25,0.6931471805599453
+73,Tennessee,Female,35,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.25,0.6931471805599453
 74,Tennessee,Female,35,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.24,0.6730116670092565
 75,Tennessee,Female,35,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.0,0.0
 76,Nebraska,Female,57,United States,Married,Lower,Working class,Q142,0,4,3,0.4,0.9502705392332347
@@ -81,7 +81,7 @@
 79,Nebraska,Female,57,United States,Married,Lower,Working class,Q142,3,4,3,0.16,0.5004024235381879
 80,Colorado,Male,33,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
 81,Colorado,Male,33,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.1875,0.5623351446188083
-82,Colorado,Male,33,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.56,1.0549201679861442
+82,Colorado,Male,33,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.56,1.0549201679861442
 83,Colorado,Male,33,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.4,0.9502705392332347
 84,Missouri,Female,49,United States,Single,Higher,Upper middle class,Q142,0,4,3,0.4,0.9502705392332347
 85,Missouri,Female,49,United States,Single,Higher,Upper middle class,Q142,1,4,3,0.5,1.0397207708399179
@@ -100,7 +100,7 @@
 98,Florida,Female,23,United States,Single,Higher,Lower middle class,Q142,2,4,3,0.24,0.6730116670092565
 99,Florida,Female,23,United States,Single,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 100,South Dakota,Male,55,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.64,0.9502705392332347
-101,South Dakota,Male,55,United States,Married,Middle,Lower middle class,Q142,1,4,4,1.5555555555555554,1.0986122886681096
+101,South Dakota,Male,55,United States,Married,Middle,Lower middle class,Q142,1,4,3,1.5555555555555554,1.0986122886681096
 102,South Dakota,Male,55,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.6400000000000001,0.5004024235381879
 103,South Dakota,Male,55,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 104,New Jersey,Male,57,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.4,0.9502705392332347
@@ -112,14 +112,14 @@
 110,Washington,Female,29,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.24,0.6730116670092565
 111,Washington,Female,29,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.0,0.0
 112,Pennsylvania,Female,46,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
-113,Pennsylvania,Female,46,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.8,1.0549201679861442
+113,Pennsylvania,Female,46,United States,Married,Middle,Lower middle class,Q142,1,4,2,0.8,1.0549201679861442
 114,Pennsylvania,Female,46,United States,Married,Middle,Lower middle class,Q142,2,4,2,0.56,1.0549201679861442
 115,Pennsylvania,Female,46,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 116,Nebraska,Female,20,United States,Single,Middle,Lower middle class,Q142,0,4,2,0.64,0.9502705392332347
 117,Nebraska,Female,20,United States,Single,Middle,Lower middle class,Q142,1,4,1,1.6875,1.0397207708399179
 118,Nebraska,Female,20,United States,Single,Middle,Lower middle class,Q142,2,4,4,1.6,0.9502705392332347
 119,Nebraska,Female,20,United States,Single,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
-120,North Carolina,Male,19,United States,Single,Middle,Lower middle class,Q142,0,4,4,0.8,1.0549201679861442
+120,North Carolina,Male,19,United States,Single,Middle,Lower middle class,Q142,0,4,2,0.8,1.0549201679861442
 121,North Carolina,Male,19,United States,Single,Middle,Lower middle class,Q142,1,4,4,0.24,0.6730116670092565
 122,North Carolina,Male,19,United States,Single,Middle,Lower middle class,Q142,2,4,4,0.16,0.5004024235381879
 123,North Carolina,Male,19,United States,Single,Middle,Lower middle class,Q142,3,4,4,0.24,0.6730116670092565
@@ -136,11 +136,11 @@
 134,Wisconsin,Male,41,United States,Married,Middle,Working class,Q142,2,4,4,0.16,0.5004024235381879
 135,Wisconsin,Male,41,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 136,Oklahoma,Female,39,United States,Divorced,Middle,Working class,Q142,0,4,3,0.16,0.5004024235381879
-137,Oklahoma,Female,39,United States,Divorced,Middle,Working class,Q142,1,4,4,0.25,0.6931471805599453
+137,Oklahoma,Female,39,United States,Divorced,Middle,Working class,Q142,1,4,3,0.25,0.6931471805599453
 138,Oklahoma,Female,39,United States,Divorced,Middle,Working class,Q142,2,4,2,0.8,1.0549201679861442
 139,Oklahoma,Female,39,United States,Divorced,Middle,Working class,Q142,3,4,2,0.24000000000000002,0.6730116670092565
 140,Wisconsin,Female,55,United States,Married,Middle,Working class,Q142,0,4,3,0.5,1.0397207708399179
-141,Wisconsin,Female,55,United States,Married,Middle,Working class,Q142,1,4,3,0.56,1.0549201679861442
+141,Wisconsin,Female,55,United States,Married,Middle,Working class,Q142,1,4,2,0.56,1.0549201679861442
 142,Wisconsin,Female,55,United States,Married,Middle,Working class,Q142,2,4,4,0.6875,1.0397207708399179
 143,Wisconsin,Female,55,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 144,Pennsylvania,Male,58,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.4,0.9502705392332347
@@ -156,18 +156,18 @@
 154,New York,Male,38,United States,Married,Higher,Lower middle class,Q142,2,4,3,0.24,0.6730116670092565
 155,New York,Male,38,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 156,Wisconsin,Male,38,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.24,0.6730116670092565
-157,Wisconsin,Male,38,United States,Married,Higher,Upper middle class,Q142,1,4,4,0.25,0.6931471805599453
+157,Wisconsin,Male,38,United States,Married,Higher,Upper middle class,Q142,1,4,3,0.25,0.6931471805599453
 158,Wisconsin,Male,38,United States,Married,Higher,Upper middle class,Q142,2,4,4,0.64,0.9502705392332347
 159,Wisconsin,Male,38,United States,Married,Higher,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
 160,Arizona,Male,59,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.24000000000000002,0.6730116670092565
 161,Arizona,Male,59,United States,Married,Middle,Lower middle class,Q142,1,4,2,1.04,1.3321790402101223
-162,Arizona,Male,59,United States,Married,Middle,Lower middle class,Q142,2,4,4,1.2000000000000002,1.0549201679861442
+162,Arizona,Male,59,United States,Married,Middle,Lower middle class,Q142,2,4,3,1.2000000000000002,1.0549201679861442
 163,Arizona,Male,59,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.24000000000000002,0.6730116670092565
 164,New York,Female,30,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.0,0.0
 165,New York,Female,30,United States,Married,Higher,Upper middle class,Q142,1,4,3,0.4,0.9502705392332347
 166,New York,Female,30,United States,Married,Higher,Upper middle class,Q142,2,4,4,0.1875,0.5623351446188083
 167,New York,Female,30,United States,Married,Higher,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
-168,Massachusetts,Male,22,United States,Single,Middle,Lower middle class,Q142,0,4,4,0.56,1.0549201679861442
+168,Massachusetts,Male,22,United States,Single,Middle,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
 169,Massachusetts,Male,22,United States,Single,Middle,Lower middle class,Q142,1,4,2,0.56,1.0549201679861442
 170,Massachusetts,Male,22,United States,Single,Middle,Lower middle class,Q142,2,4,4,0.16,0.5004024235381879
 171,Massachusetts,Male,22,United States,Single,Middle,Lower middle class,Q142,3,4,3,0.0,0.0
@@ -178,7 +178,7 @@
 176,Wisconsin,Female,31,United States,Married,Higher,Lower middle class,Q142,0,4,3,0.0,0.0
 177,Wisconsin,Female,31,United States,Married,Higher,Lower middle class,Q142,1,4,3,0.0,0.0
 178,Wisconsin,Female,31,United States,Married,Higher,Lower middle class,Q142,2,4,3,0.56,1.0549201679861442
-179,Wisconsin,Female,31,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.56,1.0549201679861442
+179,Wisconsin,Female,31,United States,Married,Higher,Lower middle class,Q142,3,4,2,0.56,1.0549201679861442
 180,Colorado,Male,59,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.1875,0.5623351446188083
 181,Colorado,Male,59,United States,Married,Higher,Upper middle class,Q142,1,4,3,0.1875,0.5623351446188083
 182,Colorado,Male,59,United States,Married,Higher,Upper middle class,Q142,2,4,4,0.16,0.5004024235381879
@@ -239,8 +239,8 @@
 237,California,Male,45,United States,Married,Higher,Lower middle class,Q142,1,4,4,0.96,0.6730116670092565
 238,California,Male,45,United States,Married,Higher,Lower middle class,Q142,2,4,4,0.64,0.9502705392332347
 239,California,Male,45,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
-240,Pennsylvania,Male,52,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.6666666666666666,1.0986122886681096
-241,Pennsylvania,Male,52,United States,Married,Middle,Upper middle class,Q142,1,4,3,1.25,1.3862943611198906
+240,Pennsylvania,Male,52,United States,Married,Middle,Upper middle class,Q142,0,4,4,0.6666666666666666,1.0986122886681096
+241,Pennsylvania,Male,52,United States,Married,Middle,Upper middle class,Q142,1,4,2,1.25,1.3862943611198906
 242,Pennsylvania,Male,52,United States,Married,Middle,Upper middle class,Q142,2,4,3,1.04,1.3321790402101223
 243,Pennsylvania,Male,52,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.96,0.9502705392332347
 244,New York,Male,22,United States,Single,Higher,Lower middle class,Q142,0,4,2,0.96,0.6730116670092565
@@ -257,7 +257,7 @@
 255,Tennessee,Female,42,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 256,Minnesota,Female,23,United States,Single,Middle,Lower middle class,Q142,0,4,4,0.6875,1.0397207708399179
 257,Minnesota,Female,23,United States,Single,Middle,Lower middle class,Q142,1,4,4,0.64,0.9502705392332347
-258,Minnesota,Female,23,United States,Single,Middle,Lower middle class,Q142,2,4,4,0.56,1.0549201679861442
+258,Minnesota,Female,23,United States,Single,Middle,Lower middle class,Q142,2,4,3,0.56,1.0549201679861442
 259,Minnesota,Female,23,United States,Single,Middle,Lower middle class,Q142,3,4,3,0.0,0.0
 260,Tennessee,Female,28,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.4,0.9502705392332347
 261,Tennessee,Female,28,United States,Married,Higher,Upper middle class,Q142,1,4,3,0.4,0.9502705392332347
@@ -283,14 +283,14 @@
 281,Kansas,Male,30,United States,Married,Higher,Working class,Q142,1,4,3,0.1875,0.5623351446188083
 282,Kansas,Male,30,United States,Married,Higher,Working class,Q142,2,4,4,0.24,0.6730116670092565
 283,Kansas,Male,30,United States,Married,Higher,Working class,Q142,3,4,3,0.64,0.5004024235381879
-284,Arizona,Female,41,United States,Married,Middle,Lower middle class,Q142,0,4,2,0.56,1.0549201679861442
-285,Arizona,Female,41,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.56,1.0549201679861442
+284,Arizona,Female,41,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
+285,Arizona,Female,41,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.56,1.0549201679861442
 286,Arizona,Female,41,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.24,0.6730116670092565
 287,Arizona,Female,41,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 288,Texas,Male,54,United States,Married,Higher,Lower middle class,Q142,0,4,3,0.1875,0.5623351446188083
 289,Texas,Male,54,United States,Married,Higher,Lower middle class,Q142,1,4,3,1.25,1.3862943611198906
 290,Texas,Male,54,United States,Married,Higher,Lower middle class,Q142,2,4,3,0.1875,0.5623351446188083
-291,Texas,Male,54,United States,Married,Higher,Lower middle class,Q142,3,4,2,0.56,1.0549201679861442
+291,Texas,Male,54,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.56,1.0549201679861442
 292,Florida,Male,65,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.16,0.5004024235381879
 293,Florida,Male,65,United States,Married,Middle,Upper middle class,Q142,1,4,3,0.25,0.6931471805599453
 294,Florida,Male,65,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.24,0.6730116670092565
@@ -300,13 +300,13 @@
 298,Connecticut,Female,52,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.75,0.5623351446188083
 299,Connecticut,Female,52,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
 300,Connecticut,Male,26,United States,Single,Higher,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
-301,Connecticut,Male,26,United States,Single,Higher,Lower middle class,Q142,1,4,3,0.25,0.6931471805599453
+301,Connecticut,Male,26,United States,Single,Higher,Lower middle class,Q142,1,4,4,0.25,0.6931471805599453
 302,Connecticut,Male,26,United States,Single,Higher,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 303,Connecticut,Male,26,United States,Single,Higher,Lower middle class,Q142,3,4,4,1.36,1.3321790402101223
 304,Iowa,Male,32,United States,Married,Middle,Working class,Q142,0,4,3,0.16,0.5004024235381879
 305,Iowa,Male,32,United States,Married,Middle,Working class,Q142,1,4,3,0.4,0.9502705392332347
 306,Iowa,Male,32,United States,Married,Middle,Working class,Q142,2,4,4,0.16,0.5004024235381879
-307,Iowa,Male,32,United States,Married,Middle,Working class,Q142,3,4,3,0.56,1.0549201679861442
+307,Iowa,Male,32,United States,Married,Middle,Working class,Q142,3,4,2,0.56,1.0549201679861442
 308,Florida,Male,38,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.5,1.0397207708399179
 309,Florida,Male,38,United States,Married,Middle,Lower middle class,Q142,1,4,2,0.6666666666666666,1.0986122886681096
 310,Florida,Male,38,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
@@ -318,19 +318,19 @@
 316,New Mexico,Male,49,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
 317,New Mexico,Male,49,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.8888888888888888,0.6365141682948128
 318,New Mexico,Male,49,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.0,0.0
-319,New Mexico,Male,49,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.56,1.0549201679861442
+319,New Mexico,Male,49,United States,Married,Middle,Lower middle class,Q142,3,4,2,0.56,1.0549201679861442
 320,Texas,Female,29,United States,Married,Middle,Working class,Q142,0,4,3,0.4,0.9502705392332347
-321,Texas,Female,29,United States,Married,Middle,Working class,Q142,1,4,4,0.56,1.0549201679861442
+321,Texas,Female,29,United States,Married,Middle,Working class,Q142,1,4,3,0.56,1.0549201679861442
 322,Texas,Female,29,United States,Married,Middle,Working class,Q142,2,4,3,0.24,0.6730116670092565
 323,Texas,Female,29,United States,Married,Middle,Working class,Q142,3,4,3,0.4,0.9502705392332347
 324,Hawaii,Female,36,United States,Married,Higher,Lower middle class,Q142,0,4,3,0.4,0.9502705392332347
 325,Hawaii,Female,36,United States,Married,Higher,Lower middle class,Q142,1,4,3,0.25,0.6931471805599453
-326,Hawaii,Female,36,United States,Married,Higher,Lower middle class,Q142,2,4,4,0.25,0.6931471805599453
+326,Hawaii,Female,36,United States,Married,Higher,Lower middle class,Q142,2,4,3,0.25,0.6931471805599453
 327,Hawaii,Female,36,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.0,0.0
 328,North Carolina,Female,34,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
 329,North Carolina,Female,34,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.25,0.6931471805599453
 330,North Carolina,Female,34,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.16,0.5004024235381879
-331,North Carolina,Female,34,United States,Married,Middle,Lower middle class,Q142,3,4,4,0.56,1.0549201679861442
+331,North Carolina,Female,34,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.56,1.0549201679861442
 332,New Jersey,Male,57,United States,Married,Middle,Working class,Q142,0,4,3,0.16,0.5004024235381879
 333,New Jersey,Male,57,United States,Married,Middle,Working class,Q142,1,4,2,0.64,0.9502705392332347
 334,New Jersey,Male,57,United States,Married,Middle,Working class,Q142,2,4,4,0.0,0.0
@@ -340,7 +340,7 @@
 338,Alabama,Male,60,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 339,Alabama,Male,60,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.24,0.6730116670092565
 340,Kentucky,Male,21,United States,Single,Middle,Lower middle class,Q142,0,4,3,0.24000000000000002,0.6730116670092565
-341,Kentucky,Male,21,United States,Single,Middle,Lower middle class,Q142,1,4,3,0.6666666666666666,1.0986122886681096
+341,Kentucky,Male,21,United States,Single,Middle,Lower middle class,Q142,1,4,4,0.6666666666666666,1.0986122886681096
 342,Kentucky,Male,21,United States,Single,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 343,Kentucky,Male,21,United States,Single,Middle,Lower middle class,Q142,3,4,3,0.0,0.0
 344,Florida,Male,33,United States,Single,Higher,Working class,Q142,0,4,3,0.24000000000000002,0.6730116670092565
@@ -348,24 +348,24 @@
 346,Florida,Male,33,United States,Single,Higher,Working class,Q142,2,4,4,0.6400000000000001,0.5004024235381879
 347,Florida,Male,33,United States,Single,Higher,Working class,Q142,3,4,3,0.16,0.5004024235381879
 348,Tennessee,Male,32,United States,Married,Higher,Lower middle class,Q142,0,4,3,0.4,0.9502705392332347
-349,Tennessee,Male,32,United States,Married,Higher,Lower middle class,Q142,1,4,4,2.25,0.6931471805599453
+349,Tennessee,Male,32,United States,Married,Higher,Lower middle class,Q142,1,4,1,2.25,0.6931471805599453
 350,Tennessee,Male,32,United States,Married,Higher,Lower middle class,Q142,2,4,2,0.56,1.0549201679861442
 351,Tennessee,Male,32,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.0,0.0
 352,Washington,Male,42,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.0,0.0
 353,Washington,Male,42,United States,Married,Higher,Upper middle class,Q142,1,4,4,0.6875,1.0397207708399179
 354,Washington,Male,42,United States,Married,Higher,Upper middle class,Q142,2,4,3,0.24,0.6730116670092565
 355,Washington,Male,42,United States,Married,Higher,Upper middle class,Q142,3,4,3,0.0,0.0
-356,Kentucky,Male,52,United States,Married,Middle,Working class,Q142,0,4,3,0.56,1.0549201679861442
+356,Kentucky,Male,52,United States,Married,Middle,Working class,Q142,0,4,2,0.56,1.0549201679861442
 357,Kentucky,Male,52,United States,Married,Middle,Working class,Q142,1,4,3,0.4,0.9502705392332347
 358,Kentucky,Male,52,United States,Married,Middle,Working class,Q142,2,4,4,0.0,0.0
 359,Kentucky,Male,52,United States,Married,Middle,Working class,Q142,3,4,3,0.4,0.9502705392332347
 360,Virginia,Male,45,United States,Divorced,Higher,Upper middle class,Q142,0,4,3,0.4,0.9502705392332347
 361,Virginia,Male,45,United States,Divorced,Higher,Upper middle class,Q142,1,4,4,1.6,0.9502705392332347
-362,Virginia,Male,45,United States,Divorced,Higher,Upper middle class,Q142,2,4,4,0.25,0.6931471805599453
+362,Virginia,Male,45,United States,Divorced,Higher,Upper middle class,Q142,2,4,3,0.25,0.6931471805599453
 363,Virginia,Male,45,United States,Divorced,Higher,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
 364,Texas,Male,23,United States,Single,Middle,Lower class,Q142,0,4,3,0.4,0.9502705392332347
 365,Texas,Male,23,United States,Single,Middle,Lower class,Q142,1,4,3,0.24,0.6730116670092565
-366,Texas,Male,23,United States,Single,Middle,Lower class,Q142,2,4,4,1.2000000000000002,1.0549201679861442
+366,Texas,Male,23,United States,Single,Middle,Lower class,Q142,2,4,3,1.2000000000000002,1.0549201679861442
 367,Texas,Male,23,United States,Single,Middle,Lower class,Q142,3,4,3,0.0,0.0
 368,New York,Male,38,United States,Single,Higher,Lower class,Q142,0,4,2,0.96,0.9502705392332347
 369,New York,Male,38,United States,Single,Higher,Lower class,Q142,1,4,4,0.0,0.0
@@ -388,7 +388,7 @@
 386,California,Male,40,United States,Married,Higher,Lower middle class,Q142,2,4,4,0.25,0.6931471805599453
 387,California,Male,40,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 388,Arizona,Male,38,United States,Married,Middle,Working class,Q142,0,4,2,0.64,0.9502705392332347
-389,Arizona,Male,38,United States,Married,Middle,Working class,Q142,1,4,3,1.4400000000000002,1.0549201679861442
+389,Arizona,Male,38,United States,Married,Middle,Working class,Q142,1,4,1,1.4400000000000002,1.0549201679861442
 390,Arizona,Male,38,United States,Married,Middle,Working class,Q142,2,4,3,0.4,0.9502705392332347
 391,Arizona,Male,38,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 392,Kentucky,Female,30,United States,Married,Higher,Lower class,Q142,0,4,2,0.0,0.0
@@ -407,7 +407,7 @@
 405,Wisconsin,Female,41,United States,Single,Middle,Lower class,Q142,1,4,4,0.6875,1.0397207708399179
 406,Wisconsin,Female,41,United States,Single,Middle,Lower class,Q142,2,4,2,0.96,0.9502705392332347
 407,Wisconsin,Female,41,United States,Single,Middle,Lower class,Q142,3,4,3,0.24000000000000002,0.6730116670092565
-408,Washington,Female,21,United States,Single,Middle,Lower class,Q142,0,4,4,0.8,1.0549201679861442
+408,Washington,Female,21,United States,Single,Middle,Lower class,Q142,0,4,2,0.8,1.0549201679861442
 409,Washington,Female,21,United States,Single,Middle,Lower class,Q142,1,4,2,0.6875,1.0397207708399179
 410,Washington,Female,21,United States,Single,Middle,Lower class,Q142,2,4,4,0.24,0.6730116670092565
 411,Washington,Female,21,United States,Single,Middle,Lower class,Q142,3,4,4,0.24,0.6730116670092565
@@ -483,7 +483,7 @@
 481,Missouri,Male,37,United States,Married,Middle,Lower class,Q142,1,4,3,1.04,1.3321790402101223
 482,Missouri,Male,37,United States,Married,Middle,Lower class,Q142,2,4,4,0.16,0.5004024235381879
 483,Missouri,Male,37,United States,Married,Middle,Lower class,Q142,3,4,3,0.4,0.9502705392332347
-484,Minnesota,Female,22,United States,Single,Middle,Lower class,Q142,0,4,3,0.56,1.0549201679861442
+484,Minnesota,Female,22,United States,Single,Middle,Lower class,Q142,0,4,2,0.56,1.0549201679861442
 485,Minnesota,Female,22,United States,Single,Middle,Lower class,Q142,1,4,3,0.6875,1.0397207708399179
 486,Minnesota,Female,22,United States,Single,Middle,Lower class,Q142,2,4,3,0.16,0.5004024235381879
 487,Minnesota,Female,22,United States,Single,Middle,Lower class,Q142,3,4,3,0.16,0.5004024235381879
@@ -493,17 +493,17 @@
 491,Oklahoma,Female,25,United States,Married,Middle,Lower class,Q142,3,4,3,0.56,1.0549201679861442
 492,Arizona,Male,28,United States,Single,Higher,Working class,Q142,0,4,3,0.16,0.5004024235381879
 493,Arizona,Male,28,United States,Single,Higher,Working class,Q142,1,4,3,0.16,0.5004024235381879
-494,Arizona,Male,28,United States,Single,Higher,Working class,Q142,2,4,3,0.56,1.0549201679861442
-495,Arizona,Male,28,United States,Single,Higher,Working class,Q142,3,4,3,0.56,1.0549201679861442
+494,Arizona,Male,28,United States,Single,Higher,Working class,Q142,2,4,4,0.56,1.0549201679861442
+495,Arizona,Male,28,United States,Single,Higher,Working class,Q142,3,4,2,0.56,1.0549201679861442
 496,California,Male,35,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.0,0.0
 497,California,Male,35,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.64,0.9502705392332347
 498,California,Male,35,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 499,California,Male,35,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.0,0.0
-500,New Jersey,Male,55,United States,Married,Middle,Working class,Q142,0,4,2,0.56,1.0549201679861442
+500,New Jersey,Male,55,United States,Married,Middle,Working class,Q142,0,4,3,0.56,1.0549201679861442
 501,New Jersey,Male,55,United States,Married,Middle,Working class,Q142,1,4,3,0.5,1.0397207708399179
 502,New Jersey,Male,55,United States,Married,Middle,Working class,Q142,2,4,4,0.24,0.6730116670092565
 503,New Jersey,Male,55,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
-504,Texas,Male,53,United States,Married,Higher,Lower middle class,Q142,0,4,2,0.25,0.6931471805599453
+504,Texas,Male,53,United States,Married,Higher,Lower middle class,Q142,0,4,3,0.25,0.6931471805599453
 505,Texas,Male,53,United States,Married,Higher,Lower middle class,Q142,1,4,3,0.2222222222222222,0.6365141682948128
 506,Texas,Male,53,United States,Married,Higher,Lower middle class,Q142,2,4,3,0.1875,0.5623351446188083
 507,Texas,Male,53,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
@@ -513,7 +513,7 @@
 511,Connecticut,Male,59,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 512,Oregon,Female,42,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.4,0.9502705392332347
 513,Oregon,Female,42,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.24,0.6730116670092565
-514,Oregon,Female,42,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.25,0.6931471805599453
+514,Oregon,Female,42,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.25,0.6931471805599453
 515,Oregon,Female,42,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.0,0.0
 516,Colorado,Male,39,United States,Married,Higher,Working class,Q142,0,4,3,0.24,0.6730116670092565
 517,Colorado,Male,39,United States,Married,Higher,Working class,Q142,1,4,4,0.2222222222222222,0.6365141682948128
@@ -545,7 +545,7 @@
 543,North Carolina,Male,52,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.0,0.0
 544,Massachusetts,Male,39,United States,Married,Middle,Lower class,Q142,0,4,4,0.96,0.6730116670092565
 545,Massachusetts,Male,39,United States,Married,Middle,Lower class,Q142,1,4,3,0.4,0.9502705392332347
-546,Massachusetts,Male,39,United States,Married,Middle,Lower class,Q142,2,4,4,1.2000000000000002,1.0549201679861442
+546,Massachusetts,Male,39,United States,Married,Middle,Lower class,Q142,2,4,3,1.2000000000000002,1.0549201679861442
 547,Massachusetts,Male,39,United States,Married,Middle,Lower class,Q142,3,4,3,0.24,0.6730116670092565
 548,Idaho,Male,23,United States,Single,Middle,Lower middle class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
 549,Idaho,Male,23,United States,Single,Middle,Lower middle class,Q142,1,4,4,1.3599999999999999,0.9502705392332347
@@ -592,7 +592,7 @@
 590,New York,Female,32,United States,Married,Middle,Working class,Q142,2,4,4,0.64,0.9502705392332347
 591,New York,Female,32,United States,Married,Middle,Working class,Q142,3,4,3,0.0,0.0
 592,Missouri,Female,35,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.0,0.0
-593,Missouri,Female,35,United States,Married,Middle,Upper middle class,Q142,1,4,1,1.4400000000000002,1.0549201679861442
+593,Missouri,Female,35,United States,Married,Middle,Upper middle class,Q142,1,4,3,1.4400000000000002,1.0549201679861442
 594,Missouri,Female,35,United States,Married,Middle,Upper middle class,Q142,2,4,3,0.0,0.0
 595,Missouri,Female,35,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.0,0.0
 596,Minnesota,Male,33,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.16,0.5004024235381879
@@ -614,13 +614,13 @@
 612,Oklahoma,Male,20,United States,Single,Middle,Upper middle class,Q142,0,4,2,0.0,0.0
 613,Oklahoma,Male,20,United States,Single,Middle,Upper middle class,Q142,1,4,4,0.8888888888888888,0.6365141682948128
 614,Oklahoma,Male,20,United States,Single,Middle,Upper middle class,Q142,2,4,3,0.24,0.6730116670092565
-615,Oklahoma,Male,20,United States,Single,Middle,Upper middle class,Q142,3,4,2,0.56,1.0549201679861442
+615,Oklahoma,Male,20,United States,Single,Middle,Upper middle class,Q142,3,4,3,0.56,1.0549201679861442
 616,Washington,Male,45,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.0,0.0
 617,Washington,Male,45,United States,Married,Middle,Upper middle class,Q142,1,4,3,0.1875,0.5623351446188083
 618,Washington,Male,45,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.16,0.5004024235381879
-619,Washington,Male,45,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.25,0.6931471805599453
+619,Washington,Male,45,United States,Married,Middle,Upper middle class,Q142,3,4,2,0.25,0.6931471805599453
 620,Pennsylvania,Female,43,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.16,0.5004024235381879
-621,Pennsylvania,Female,43,United States,Married,Higher,Upper middle class,Q142,1,4,3,1.25,1.3862943611198906
+621,Pennsylvania,Female,43,United States,Married,Higher,Upper middle class,Q142,1,4,2,1.25,1.3862943611198906
 622,Pennsylvania,Female,43,United States,Married,Higher,Upper middle class,Q142,2,4,4,0.16,0.5004024235381879
 623,Pennsylvania,Female,43,United States,Married,Higher,Upper middle class,Q142,3,4,3,0.0,0.0
 624,Arizona,Female,20,United States,Single,Middle,Upper middle class,Q142,0,4,3,0.1875,0.5623351446188083
@@ -632,7 +632,7 @@
 630,Connecticut,Female,40,United States,Single,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 631,Connecticut,Female,40,United States,Single,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 632,Illinois,Female,33,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.16,0.5004024235381879
-633,Illinois,Female,33,United States,Married,Higher,Upper middle class,Q142,1,4,2,0.56,1.0549201679861442
+633,Illinois,Female,33,United States,Married,Higher,Upper middle class,Q142,1,4,3,0.56,1.0549201679861442
 634,Illinois,Female,33,United States,Married,Higher,Upper middle class,Q142,2,4,3,0.56,1.0549201679861442
 635,Illinois,Female,33,United States,Married,Higher,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
 636,Ohio,Female,24,United States,Married,Middle,Working class,Q142,0,4,3,0.16,0.5004024235381879
@@ -679,7 +679,7 @@
 677,Minnesota,Male,28,United States,Single,Higher,Lower middle class,Q142,1,4,4,0.75,0.5623351446188083
 678,Minnesota,Male,28,United States,Single,Higher,Lower middle class,Q142,2,4,4,0.16,0.5004024235381879
 679,Minnesota,Male,28,United States,Single,Higher,Lower middle class,Q142,3,4,2,0.24000000000000002,0.6730116670092565
-680,Nebraska,Male,39,United States,Married,Middle,Lower middle class,Q142,0,4,4,0.56,1.0549201679861442
+680,Nebraska,Male,39,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
 681,Nebraska,Male,39,United States,Married,Middle,Lower middle class,Q142,1,4,2,0.6875,1.0397207708399179
 682,Nebraska,Male,39,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 683,Nebraska,Male,39,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.4,0.9502705392332347
@@ -700,11 +700,11 @@
 698,Texas,Male,33,United States,Married,Higher,Lower middle class,Q142,2,4,4,0.1875,0.5623351446188083
 699,Texas,Male,33,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 700,Nevada,Female,45,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.24000000000000002,0.6730116670092565
-701,Nevada,Female,45,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.6666666666666666,1.0986122886681096
+701,Nevada,Female,45,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.6666666666666666,1.0986122886681096
 702,Nevada,Female,45,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 703,Nevada,Female,45,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 704,Kentucky,Female,55,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.4,0.9502705392332347
-705,Kentucky,Female,55,United States,Married,Middle,Upper middle class,Q142,1,4,3,0.56,1.0549201679861442
+705,Kentucky,Female,55,United States,Married,Middle,Upper middle class,Q142,1,4,2,0.56,1.0549201679861442
 706,Kentucky,Female,55,United States,Married,Middle,Upper middle class,Q142,2,4,3,0.16,0.5004024235381879
 707,Kentucky,Female,55,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
 708,Ohio,Female,27,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.16,0.5004024235381879
@@ -712,12 +712,12 @@
 710,Ohio,Female,27,United States,Married,Higher,Upper middle class,Q142,2,4,3,0.24,0.6730116670092565
 711,Ohio,Female,27,United States,Married,Higher,Upper middle class,Q142,3,4,3,0.4,0.9502705392332347
 712,Massachusetts,Female,42,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.0,0.0
-713,Massachusetts,Female,42,United States,Married,Higher,Upper middle class,Q142,1,4,3,0.56,1.0549201679861442
+713,Massachusetts,Female,42,United States,Married,Higher,Upper middle class,Q142,1,4,4,0.56,1.0549201679861442
 714,Massachusetts,Female,42,United States,Married,Higher,Upper middle class,Q142,2,4,4,0.24,0.6730116670092565
 715,Massachusetts,Female,42,United States,Married,Higher,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
 716,Colorado,Female,32,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.64,0.5004024235381879
 717,Colorado,Female,32,United States,Married,Middle,Upper middle class,Q142,1,4,4,0.6875,1.0397207708399179
-718,Colorado,Female,32,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.56,1.0549201679861442
+718,Colorado,Female,32,United States,Married,Middle,Upper middle class,Q142,2,4,3,0.56,1.0549201679861442
 719,Colorado,Female,32,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.0,0.0
 720,Colorado,Male,27,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.16,0.5004024235381879
 721,Colorado,Male,27,United States,Married,Higher,Upper middle class,Q142,1,4,4,0.6875,1.0397207708399179
@@ -731,7 +731,7 @@
 729,Texas,Female,37,United States,Married,Middle,Upper middle class,Q142,1,4,3,0.4,0.9502705392332347
 730,Texas,Female,37,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.24,0.6730116670092565
 731,Texas,Female,37,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
-732,Ohio,Male,28,United States,Married,Higher,Working class,Q142,0,4,2,0.56,1.0549201679861442
+732,Ohio,Male,28,United States,Married,Higher,Working class,Q142,0,4,3,0.56,1.0549201679861442
 733,Ohio,Male,28,United States,Married,Higher,Working class,Q142,1,4,3,0.96,0.9502705392332347
 734,Ohio,Male,28,United States,Married,Higher,Working class,Q142,2,4,3,0.24,0.6730116670092565
 735,Ohio,Male,28,United States,Married,Higher,Working class,Q142,3,4,3,0.0,0.0
@@ -740,13 +740,13 @@
 738,Utah,Female,50,United States,Married,Middle,Upper middle class,Q142,2,4,3,0.16,0.5004024235381879
 739,Utah,Female,50,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.24000000000000002,0.6730116670092565
 740,Tennessee,Male,39,United States,Single,Higher,Working class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
-741,Tennessee,Male,39,United States,Single,Higher,Working class,Q142,1,4,3,0.56,1.0549201679861442
+741,Tennessee,Male,39,United States,Single,Higher,Working class,Q142,1,4,2,0.56,1.0549201679861442
 742,Tennessee,Male,39,United States,Single,Higher,Working class,Q142,2,4,4,0.24,0.6730116670092565
 743,Tennessee,Male,39,United States,Single,Higher,Working class,Q142,3,4,2,0.24000000000000002,0.6730116670092565
 744,Kentucky,Female,45,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.16,0.5004024235381879
 745,Kentucky,Female,45,United States,Married,Higher,Upper middle class,Q142,1,4,2,1.25,1.3862943611198906
 746,Kentucky,Female,45,United States,Married,Higher,Upper middle class,Q142,2,4,3,0.0,0.0
-747,Kentucky,Female,45,United States,Married,Higher,Upper middle class,Q142,3,4,3,0.56,1.0549201679861442
+747,Kentucky,Female,45,United States,Married,Higher,Upper middle class,Q142,3,4,2,0.56,1.0549201679861442
 748,Michigan,Male,35,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.0,0.0
 749,Michigan,Male,35,United States,Married,Higher,Upper middle class,Q142,1,4,3,0.8888888888888888,0.6365141682948128
 750,Michigan,Male,35,United States,Married,Higher,Upper middle class,Q142,2,4,4,0.16,0.5004024235381879
@@ -757,7 +757,7 @@
 755,Maine,Female,55,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.0,0.0
 756,Missouri,Female,27,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
 757,Missouri,Female,27,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.4,0.9502705392332347
-758,Missouri,Female,27,United States,Married,Middle,Lower middle class,Q142,2,4,1,1.4400000000000002,1.0549201679861442
+758,Missouri,Female,27,United States,Married,Middle,Lower middle class,Q142,2,4,3,1.4400000000000002,1.0549201679861442
 759,Missouri,Female,27,United States,Married,Middle,Lower middle class,Q142,3,4,2,0.4,0.9502705392332347
 760,Missouri,Female,52,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.24000000000000002,0.6730116670092565
 761,Missouri,Female,52,United States,Married,Middle,Lower middle class,Q142,1,4,2,1.04,1.3321790402101223
@@ -765,10 +765,10 @@
 763,Missouri,Female,52,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 764,New Jersey,Female,20,United States,Single,Middle,Working class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
 765,New Jersey,Female,20,United States,Single,Middle,Working class,Q142,1,4,2,1.1875,1.0397207708399179
-766,New Jersey,Female,20,United States,Single,Middle,Working class,Q142,2,4,2,0.8,1.0549201679861442
+766,New Jersey,Female,20,United States,Single,Middle,Working class,Q142,2,4,4,0.8,1.0549201679861442
 767,New Jersey,Female,20,United States,Single,Middle,Working class,Q142,3,4,3,0.24000000000000002,0.6730116670092565
 768,Virginia,Male,60,United States,Married,Middle,Working class,Q142,0,4,3,0.56,1.0549201679861442
-769,Virginia,Male,60,United States,Married,Middle,Working class,Q142,1,4,4,0.6666666666666666,1.0986122886681096
+769,Virginia,Male,60,United States,Married,Middle,Working class,Q142,1,4,3,0.6666666666666666,1.0986122886681096
 770,Virginia,Male,60,United States,Married,Middle,Working class,Q142,2,4,3,0.24,0.6730116670092565
 771,Virginia,Male,60,United States,Married,Middle,Working class,Q142,3,4,3,0.0,0.0
 772,Florida,Male,41,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.56,1.0549201679861442
@@ -778,7 +778,7 @@
 776,California,Female,23,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.0,0.0
 777,California,Female,23,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.64,0.9502705392332347
 778,California,Female,23,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
-779,California,Female,23,United States,Married,Middle,Lower middle class,Q142,3,4,2,0.56,1.0549201679861442
+779,California,Female,23,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.56,1.0549201679861442
 780,California,Female,30,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.1875,0.5623351446188083
 781,California,Female,30,United States,Married,Middle,Upper middle class,Q142,1,4,4,0.1875,0.5623351446188083
 782,California,Female,30,United States,Married,Middle,Upper middle class,Q142,2,4,3,0.16,0.5004024235381879
@@ -794,7 +794,7 @@
 792,Florida,Female,48,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
 793,Florida,Female,48,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.96,0.9502705392332347
 794,Florida,Female,48,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
-795,Florida,Female,48,United States,Married,Middle,Lower middle class,Q142,3,4,1,1.4400000000000002,1.0549201679861442
+795,Florida,Female,48,United States,Married,Middle,Lower middle class,Q142,3,4,3,1.4400000000000002,1.0549201679861442
 796,Washington,Male,34,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.0,0.0
 797,Washington,Male,34,United States,Married,Higher,Upper middle class,Q142,1,4,2,0.56,1.0549201679861442
 798,Washington,Male,34,United States,Married,Higher,Upper middle class,Q142,2,4,4,0.0,0.0
@@ -803,11 +803,11 @@
 801,Missouri,Female,39,United States,Divorced,Middle,Lower middle class,Q142,1,4,4,0.2222222222222222,0.6365141682948128
 802,Missouri,Female,39,United States,Divorced,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 803,Missouri,Female,39,United States,Divorced,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
-804,Delaware,Male,39,United States,Married,Middle,Upper middle class,Q142,0,4,2,0.56,1.0549201679861442
+804,Delaware,Male,39,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.56,1.0549201679861442
 805,Delaware,Male,39,United States,Married,Middle,Upper middle class,Q142,1,4,4,0.1875,0.5623351446188083
 806,Delaware,Male,39,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.56,1.0549201679861442
 807,Delaware,Male,39,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
-808,Wisconsin,Male,62,United States,Married,Middle,Working class,Q142,0,4,2,0.56,1.0549201679861442
+808,Wisconsin,Male,62,United States,Married,Middle,Working class,Q142,0,4,3,0.56,1.0549201679861442
 809,Wisconsin,Male,62,United States,Married,Middle,Working class,Q142,1,4,4,0.24,0.6730116670092565
 810,Wisconsin,Male,62,United States,Married,Middle,Working class,Q142,2,4,4,0.16,0.5004024235381879
 811,Wisconsin,Male,62,United States,Married,Middle,Working class,Q142,3,4,3,0.4,0.9502705392332347
@@ -823,7 +823,7 @@
 821,Maryland,Male,29,United States,Married,Middle,Working class,Q142,1,4,3,1.04,1.3321790402101223
 822,Maryland,Male,29,United States,Married,Middle,Working class,Q142,2,4,3,0.24,0.6730116670092565
 823,Maryland,Male,29,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
-824,Oklahoma,Female,42,United States,Married,Higher,Working class,Q142,0,4,2,0.25,0.6931471805599453
+824,Oklahoma,Female,42,United States,Married,Higher,Working class,Q142,0,4,3,0.25,0.6931471805599453
 825,Oklahoma,Female,42,United States,Married,Higher,Working class,Q142,1,4,2,1.44,1.0549201679861442
 826,Oklahoma,Female,42,United States,Married,Higher,Working class,Q142,2,4,3,0.16,0.5004024235381879
 827,Oklahoma,Female,42,United States,Married,Higher,Working class,Q142,3,4,3,0.16,0.5004024235381879
@@ -837,10 +837,10 @@
 835,Nebraska,Male,29,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 836,North Carolina,Male,35,United States,Married,Higher,Working class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
 837,North Carolina,Male,35,United States,Married,Higher,Working class,Q142,1,4,2,0.6875,1.0397207708399179
-838,North Carolina,Male,35,United States,Married,Higher,Working class,Q142,2,4,4,0.56,1.0549201679861442
+838,North Carolina,Male,35,United States,Married,Higher,Working class,Q142,2,4,3,0.56,1.0549201679861442
 839,North Carolina,Male,35,United States,Married,Higher,Working class,Q142,3,4,3,0.16,0.5004024235381879
-840,Rhode Island,Female,40,United States,Married,Middle,Working class,Q142,0,4,4,0.56,1.0549201679861442
-841,Rhode Island,Female,40,United States,Married,Middle,Working class,Q142,1,4,3,0.56,1.0549201679861442
+840,Rhode Island,Female,40,United States,Married,Middle,Working class,Q142,0,4,3,0.56,1.0549201679861442
+841,Rhode Island,Female,40,United States,Married,Middle,Working class,Q142,1,4,2,0.56,1.0549201679861442
 842,Rhode Island,Female,40,United States,Married,Middle,Working class,Q142,2,4,4,0.24,0.6730116670092565
 843,Rhode Island,Female,40,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 844,New York,Female,48,United States,Divorced,Lower,Working class,Q142,0,4,3,1.04,1.3321790402101223
@@ -856,7 +856,7 @@
 854,Indiana,Male,47,United States,Married,Higher,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 855,Indiana,Male,47,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 856,Iowa,Female,38,United States,Married,Higher,Working class,Q142,0,4,3,0.16,0.5004024235381879
-857,Iowa,Female,38,United States,Married,Higher,Working class,Q142,1,4,1,0.8,1.0549201679861442
+857,Iowa,Female,38,United States,Married,Higher,Working class,Q142,1,4,3,0.8,1.0549201679861442
 858,Iowa,Female,38,United States,Married,Higher,Working class,Q142,2,4,3,0.0,0.0
 859,Iowa,Female,38,United States,Married,Higher,Working class,Q142,3,4,3,0.64,0.5004024235381879
 860,Ohio,Male,58,United States,Married,Middle,Working class,Q142,0,4,3,0.24000000000000002,0.6730116670092565
@@ -867,7 +867,7 @@
 865,Virginia,Female,27,United States,Married,Higher,Working class,Q142,1,4,3,0.4,0.9502705392332347
 866,Virginia,Female,27,United States,Married,Higher,Working class,Q142,2,4,3,0.24000000000000002,0.6730116670092565
 867,Virginia,Female,27,United States,Married,Higher,Working class,Q142,3,4,3,0.4,0.9502705392332347
-868,New Hampshire,Female,48,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.56,1.0549201679861442
+868,New Hampshire,Female,48,United States,Married,Middle,Upper middle class,Q142,0,4,4,0.56,1.0549201679861442
 869,New Hampshire,Female,48,United States,Married,Middle,Upper middle class,Q142,1,4,3,0.16,0.5004024235381879
 870,New Hampshire,Female,48,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.16,0.5004024235381879
 871,New Hampshire,Female,48,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.64,0.9502705392332347
@@ -881,17 +881,17 @@
 879,New York,Female,38,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.64,0.9502705392332347
 880,Michigan,Female,34,United States,Divorced,Higher,Lower class,Q142,0,4,2,0.16,0.5004024235381879
 881,Michigan,Female,34,United States,Divorced,Higher,Lower class,Q142,1,4,3,0.16,0.5004024235381879
-882,Michigan,Female,34,United States,Divorced,Higher,Lower class,Q142,2,4,3,0.56,1.0549201679861442
+882,Michigan,Female,34,United States,Divorced,Higher,Lower class,Q142,2,4,4,0.56,1.0549201679861442
 883,Michigan,Female,34,United States,Divorced,Higher,Lower class,Q142,3,4,3,0.24000000000000002,0.6730116670092565
 884,Kansas,Male,20,United States,Single,Higher,Working class,Q142,0,4,3,0.16,0.5004024235381879
 885,Kansas,Male,20,United States,Single,Higher,Working class,Q142,1,4,4,0.24,0.6730116670092565
 886,Kansas,Male,20,United States,Single,Higher,Working class,Q142,2,4,4,0.64,0.9502705392332347
 887,Kansas,Male,20,United States,Single,Higher,Working class,Q142,3,4,3,0.0,0.0
 888,California,Male,19,United States,Single,Middle,Upper middle class,Q142,0,4,3,0.4,0.9502705392332347
-889,California,Male,19,United States,Single,Middle,Upper middle class,Q142,1,4,4,0.8,1.0549201679861442
+889,California,Male,19,United States,Single,Middle,Upper middle class,Q142,1,4,2,0.8,1.0549201679861442
 890,California,Male,19,United States,Single,Middle,Upper middle class,Q142,2,4,4,0.16,0.5004024235381879
 891,California,Male,19,United States,Single,Middle,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
-892,North Carolina,Female,33,United States,Married,Middle,Working class,Q142,0,4,2,0.56,1.0549201679861442
+892,North Carolina,Female,33,United States,Married,Middle,Working class,Q142,0,4,3,0.56,1.0549201679861442
 893,North Carolina,Female,33,United States,Married,Middle,Working class,Q142,1,4,4,0.56,1.0549201679861442
 894,North Carolina,Female,33,United States,Married,Middle,Working class,Q142,2,4,4,0.64,0.9502705392332347
 895,North Carolina,Female,33,United States,Married,Middle,Working class,Q142,3,4,3,0.4,0.9502705392332347
@@ -906,10 +906,10 @@
 904,Virginia,Male,40,United States,Single,Lower,Lower class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
 905,Virginia,Male,40,United States,Single,Lower,Lower class,Q142,1,4,4,1.36,1.3321790402101223
 906,Virginia,Male,40,United States,Single,Lower,Lower class,Q142,2,4,4,0.0,0.0
-907,Virginia,Male,40,United States,Single,Lower,Lower class,Q142,3,4,3,0.8,1.0549201679861442
+907,Virginia,Male,40,United States,Single,Lower,Lower class,Q142,3,4,1,0.8,1.0549201679861442
 908,Oklahoma,Female,25,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
 909,Oklahoma,Female,25,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.6400000000000001,0.5004024235381879
-910,Oklahoma,Female,25,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.56,1.0549201679861442
+910,Oklahoma,Female,25,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.56,1.0549201679861442
 911,Oklahoma,Female,25,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 912,Missouri,Male,48,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
 913,Missouri,Male,48,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.25,0.6931471805599453
@@ -920,7 +920,7 @@
 918,Connecticut,Female,57,United States,Married,Middle,Working class,Q142,2,4,3,0.4,0.9502705392332347
 919,Connecticut,Female,57,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 920,New Mexico,Male,20,United States,Single,Middle,Working class,Q142,0,4,4,0.64,0.9502705392332347
-921,New Mexico,Male,20,United States,Single,Middle,Working class,Q142,1,4,3,0.6666666666666666,1.0986122886681096
+921,New Mexico,Male,20,United States,Single,Middle,Working class,Q142,1,4,2,0.6666666666666666,1.0986122886681096
 922,New Mexico,Male,20,United States,Single,Middle,Working class,Q142,2,4,4,0.0,0.0
 923,New Mexico,Male,20,United States,Single,Middle,Working class,Q142,3,4,3,0.4,0.9502705392332347
 924,Florida,Female,59,United States,Married,Higher,Upper middle class,Q142,0,4,3,0.0,0.0
@@ -943,16 +943,16 @@
 941,New York,Male,36,United States,Married,Middle,Working class,Q142,1,4,2,0.56,1.0549201679861442
 942,New York,Male,36,United States,Married,Middle,Working class,Q142,2,4,4,0.16,0.5004024235381879
 943,New York,Male,36,United States,Married,Middle,Working class,Q142,3,4,2,0.64,0.9502705392332347
-944,North Carolina,Female,30,United States,Single,Higher,Lower class,Q142,0,4,2,0.56,1.0549201679861442
+944,North Carolina,Female,30,United States,Single,Higher,Lower class,Q142,0,4,3,0.56,1.0549201679861442
 945,North Carolina,Female,30,United States,Single,Higher,Lower class,Q142,1,4,3,0.64,0.9502705392332347
 946,North Carolina,Female,30,United States,Single,Higher,Lower class,Q142,2,4,3,0.4,0.9502705392332347
 947,North Carolina,Female,30,United States,Single,Higher,Lower class,Q142,3,4,3,1.04,1.3321790402101223
-948,Texas,Female,24,United States,Single,Higher,Lower class,Q142,0,4,2,0.56,1.0549201679861442
+948,Texas,Female,24,United States,Single,Higher,Lower class,Q142,0,4,3,0.56,1.0549201679861442
 949,Texas,Female,24,United States,Single,Higher,Lower class,Q142,1,4,2,0.56,1.0549201679861442
 950,Texas,Female,24,United States,Single,Higher,Lower class,Q142,2,4,3,0.56,1.0549201679861442
 951,Texas,Female,24,United States,Single,Higher,Lower class,Q142,3,4,3,0.24000000000000002,0.6730116670092565
 952,Oregon,Male,65,United States,Married,Middle,Working class,Q142,0,4,3,0.16,0.5004024235381879
-953,Oregon,Male,65,United States,Married,Middle,Working class,Q142,1,4,3,1.2000000000000002,1.0549201679861442
+953,Oregon,Male,65,United States,Married,Middle,Working class,Q142,1,4,4,1.2000000000000002,1.0549201679861442
 954,Oregon,Male,65,United States,Married,Middle,Working class,Q142,2,4,4,0.0,0.0
 955,Oregon,Male,65,United States,Married,Middle,Working class,Q142,3,4,3,0.24,0.6730116670092565
 956,Ohio,Female,56,United States,Married,Middle,Working class,Q142,0,4,3,0.4,0.9502705392332347
@@ -965,26 +965,26 @@
 963,Ohio,Male,31,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 964,Ohio,Male,28,United States,Single,Middle,Working class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
 965,Ohio,Male,28,United States,Single,Middle,Working class,Q142,1,4,2,0.24000000000000002,0.6730116670092565
-966,Ohio,Male,28,United States,Single,Middle,Working class,Q142,2,4,4,1.2000000000000002,1.0549201679861442
+966,Ohio,Male,28,United States,Single,Middle,Working class,Q142,2,4,3,1.2000000000000002,1.0549201679861442
 967,Ohio,Male,28,United States,Single,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
-968,Illinois,Male,26,United States,Single,Middle,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
+968,Illinois,Male,26,United States,Single,Middle,Lower middle class,Q142,0,4,2,0.56,1.0549201679861442
 969,Illinois,Male,26,United States,Single,Middle,Lower middle class,Q142,1,4,3,0.1875,0.5623351446188083
 970,Illinois,Male,26,United States,Single,Middle,Lower middle class,Q142,2,4,4,0.24,0.6730116670092565
 971,Illinois,Male,26,United States,Single,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
-972,Minnesota,Male,48,United States,Married,Middle,Upper middle class,Q142,0,4,4,0.56,1.0549201679861442
-973,Minnesota,Male,48,United States,Married,Middle,Upper middle class,Q142,1,4,4,0.56,1.0549201679861442
+972,Minnesota,Male,48,United States,Married,Middle,Upper middle class,Q142,0,4,3,0.56,1.0549201679861442
+973,Minnesota,Male,48,United States,Married,Middle,Upper middle class,Q142,1,4,3,0.56,1.0549201679861442
 974,Minnesota,Male,48,United States,Married,Middle,Upper middle class,Q142,2,4,4,0.24,0.6730116670092565
 975,Minnesota,Male,48,United States,Married,Middle,Upper middle class,Q142,3,4,3,0.16,0.5004024235381879
 976,Tennessee,Male,61,United States,Married,Middle,Working class,Q142,0,4,3,0.4,0.9502705392332347
 977,Tennessee,Male,61,United States,Married,Middle,Working class,Q142,1,4,4,1.0,0.6931471805599453
 978,Tennessee,Male,61,United States,Married,Middle,Working class,Q142,2,4,3,0.24,0.6730116670092565
-979,Tennessee,Male,61,United States,Married,Middle,Working class,Q142,3,4,2,0.56,1.0549201679861442
+979,Tennessee,Male,61,United States,Married,Middle,Working class,Q142,3,4,3,0.56,1.0549201679861442
 980,California,Male,41,United States,Married,Middle,Lower middle class,Q142,0,4,3,1.04,1.3321790402101223
 981,California,Male,41,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.1875,0.5623351446188083
 982,California,Male,41,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.56,1.0549201679861442
 983,California,Male,41,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 984,South Dakota,Female,43,United States,Married,Higher,Working class,Q142,0,4,3,0.4,0.9502705392332347
-985,South Dakota,Female,43,United States,Married,Higher,Working class,Q142,1,4,2,1.44,1.0549201679861442
+985,South Dakota,Female,43,United States,Married,Higher,Working class,Q142,1,4,4,1.44,1.0549201679861442
 986,South Dakota,Female,43,United States,Married,Higher,Working class,Q142,2,4,3,0.4,0.9502705392332347
 987,South Dakota,Female,43,United States,Married,Higher,Working class,Q142,3,4,3,0.64,0.5004024235381879
 988,New York,Male,57,United States,Married,Middle,Lower middle class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
@@ -1003,16 +1003,16 @@
 1001,Oklahoma,Female,31,United States,Married,Middle,Working class,Q142,1,4,3,0.64,0.9502705392332347
 1002,Oklahoma,Female,31,United States,Married,Middle,Working class,Q142,2,4,4,0.24,0.6730116670092565
 1003,Oklahoma,Female,31,United States,Married,Middle,Working class,Q142,3,4,3,0.64,0.5004024235381879
-1004,Virginia,Male,55,United States,Single,Middle,Working class,Q142,0,4,4,0.8,1.0549201679861442
+1004,Virginia,Male,55,United States,Single,Middle,Working class,Q142,0,4,2,0.8,1.0549201679861442
 1005,Virginia,Male,55,United States,Single,Middle,Working class,Q142,1,4,2,0.6875,1.0397207708399179
 1006,Virginia,Male,55,United States,Single,Middle,Working class,Q142,2,4,3,0.24,0.6730116670092565
 1007,Virginia,Male,55,United States,Single,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
-1008,Indiana,Female,28,United States,Married,Higher,Lower middle class,Q142,0,4,2,0.56,1.0549201679861442
+1008,Indiana,Female,28,United States,Married,Higher,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
 1009,Indiana,Female,28,United States,Married,Higher,Lower middle class,Q142,1,4,4,0.25,0.6931471805599453
 1010,Indiana,Female,28,United States,Married,Higher,Lower middle class,Q142,2,4,3,0.4,0.9502705392332347
 1011,Indiana,Female,28,United States,Married,Higher,Lower middle class,Q142,3,4,2,0.64,0.9502705392332347
 1012,North Carolina,Male,24,United States,Single,Middle,Working class,Q142,0,4,4,0.8,1.0549201679861442
-1013,North Carolina,Male,24,United States,Single,Middle,Working class,Q142,1,4,3,0.56,1.0549201679861442
+1013,North Carolina,Male,24,United States,Single,Middle,Working class,Q142,1,4,2,0.56,1.0549201679861442
 1014,North Carolina,Male,24,United States,Single,Middle,Working class,Q142,2,4,4,1.2000000000000002,1.0549201679861442
 1015,North Carolina,Male,24,United States,Single,Middle,Working class,Q142,3,4,3,0.56,1.0549201679861442
 1016,Maryland,Female,23,United States,Married,Middle,Working class,Q142,0,4,3,0.24000000000000002,0.6730116670092565
@@ -1023,13 +1023,13 @@
 1021,Indiana,Male,27,United States,Single,Middle,Lower middle class,Q142,1,4,3,0.56,1.0549201679861442
 1022,Indiana,Male,27,United States,Single,Middle,Lower middle class,Q142,2,4,4,0.25,0.6931471805599453
 1023,Indiana,Male,27,United States,Single,Middle,Lower middle class,Q142,3,4,3,0.64,0.5004024235381879
-1024,New York,Male,30,United States,Married,Middle,Working class,Q142,0,4,4,0.56,1.0549201679861442
+1024,New York,Male,30,United States,Married,Middle,Working class,Q142,0,4,3,0.56,1.0549201679861442
 1025,New York,Male,30,United States,Married,Middle,Working class,Q142,1,4,3,0.96,0.9502705392332347
 1026,New York,Male,30,United States,Married,Middle,Working class,Q142,2,4,4,0.6875,1.0397207708399179
 1027,New York,Male,30,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 1028,Michigan,Female,26,United States,Married,Middle,Working class,Q142,0,4,3,0.24000000000000002,0.6730116670092565
 1029,Michigan,Female,26,United States,Married,Middle,Working class,Q142,1,4,2,0.16000000000000003,0.5004024235381879
-1030,Michigan,Female,26,United States,Married,Middle,Working class,Q142,2,4,4,0.56,1.0549201679861442
+1030,Michigan,Female,26,United States,Married,Middle,Working class,Q142,2,4,3,0.56,1.0549201679861442
 1031,Michigan,Female,26,United States,Married,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
 1032,Pennsylvania,Male,32,United States,Single,Higher,Lower middle class,Q142,0,4,3,0.16,0.5004024235381879
 1033,Pennsylvania,Male,32,United States,Single,Higher,Lower middle class,Q142,1,4,3,0.24000000000000002,0.6730116670092565
@@ -1047,9 +1047,9 @@
 1045,Pennsylvania,Female,42,United States,Married,Higher,Lower middle class,Q142,1,4,3,1.1875,1.0397207708399179
 1046,Pennsylvania,Female,42,United States,Married,Higher,Lower middle class,Q142,2,4,3,0.24,0.6730116670092565
 1047,Pennsylvania,Female,42,United States,Married,Higher,Lower middle class,Q142,3,4,3,0.0,0.0
-1048,California,Male,63,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.56,1.0549201679861442
-1049,California,Male,63,United States,Married,Middle,Lower middle class,Q142,1,4,4,0.6666666666666666,1.0986122886681096
-1050,California,Male,63,United States,Married,Middle,Lower middle class,Q142,2,4,3,0.25,0.6931471805599453
+1048,California,Male,63,United States,Married,Middle,Lower middle class,Q142,0,4,4,0.56,1.0549201679861442
+1049,California,Male,63,United States,Married,Middle,Lower middle class,Q142,1,4,3,0.6666666666666666,1.0986122886681096
+1050,California,Male,63,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.25,0.6931471805599453
 1051,California,Male,63,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.64,0.5004024235381879
 1052,Virginia,Male,27,United States,Married,Middle,Working class,Q142,0,4,2,0.24000000000000002,0.6730116670092565
 1053,Virginia,Male,27,United States,Married,Middle,Working class,Q142,1,4,4,1.5,1.0397207708399179
@@ -1076,7 +1076,7 @@
 1074,Tennessee,Male,54,United States,Married,Middle,Lower middle class,Q142,2,4,4,0.0,0.0
 1075,Tennessee,Male,54,United States,Married,Middle,Lower middle class,Q142,3,4,3,0.16,0.5004024235381879
 1076,Texas,Male,34,United States,Single,Middle,Lower class,Q142,0,4,3,1.1875,1.0397207708399179
-1077,Texas,Male,34,United States,Single,Middle,Lower class,Q142,1,4,2,0.56,1.0549201679861442
+1077,Texas,Male,34,United States,Single,Middle,Lower class,Q142,1,4,3,0.56,1.0549201679861442
 1078,Texas,Male,34,United States,Single,Middle,Lower class,Q142,2,4,4,0.16,0.5004024235381879
 1079,Texas,Male,34,United States,Single,Middle,Lower class,Q142,3,4,2,0.4,0.9502705392332347
 1080,Florida,Female,31,United States,Married,Middle,Lower middle class,Q142,0,4,3,0.4,0.9502705392332347
@@ -1096,6 +1096,6 @@
 1094,Maine,Male,40,United States,Single,Middle,Lower middle class,Q142,2,4,3,0.24,0.6730116670092565
 1095,Maine,Male,40,United States,Single,Middle,Lower middle class,Q142,3,4,3,0.4,0.9502705392332347
 1096,Iowa,Male,30,United States,Single,Middle,Working class,Q142,0,4,3,0.56,1.0549201679861442
-1097,Iowa,Male,30,United States,Single,Middle,Working class,Q142,1,4,4,0.8,1.0549201679861442
+1097,Iowa,Male,30,United States,Single,Middle,Working class,Q142,1,4,2,0.8,1.0549201679861442
 1098,Iowa,Male,30,United States,Single,Middle,Working class,Q142,2,4,4,0.16,0.5004024235381879
 1099,Iowa,Male,30,United States,Single,Middle,Working class,Q142,3,4,3,0.16,0.5004024235381879
